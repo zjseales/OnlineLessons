@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Zac/Documents/Unreal Projects/GameDevLesson1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/EV/KNXNU28PJAWPZLGC4CIO6V.uasset",
+				"C:/Users/Zac/Documents/Unreal Projects/GameDevLesson1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RL/QZ30KTXK80C5NSG6FVMS8S.uasset",
+				"C:/Users/Zac/Documents/Unreal Projects/GameDevLesson1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TJ/YE760TLQOIF29F4CT58MMQ.uasset",
+				"C:/Users/Zac/Documents/Unreal Projects/GameDevLesson1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DT/EPBDG7JFDQD4NA290L3O2Z.uasset",
+				"C:/Users/Zac/Documents/Unreal Projects/GameDevLesson1/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
