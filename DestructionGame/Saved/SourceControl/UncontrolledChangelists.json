@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Zac/Documents/OnlineLessons/DestructionGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/defaultMap1.umap"
+				"C:/Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/defaultMap1.umap",
+				"C:/Users/Zac/Documents/OnlineLessons/DestructionGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/BP_Projectile.uasset"
 			]
 		}
 	]
