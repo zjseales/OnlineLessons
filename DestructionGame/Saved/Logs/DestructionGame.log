@@ -2013,3 +2013,362 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.06-09.34.51:017][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 4.04 sec)
 [2023.02.06-09.34.51:021][349]AssetCheck: New page: Asset Save: defaultMap1
 [2023.02.06-09.34.51:021][349]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/defaultMap1.defaultMap1
+[2023.02.06-09.42.06:584][ 65]LogSlate: Window 'New Level' being destroyed
+[2023.02.06-09.42.06:591][ 65]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.06-09.42.06:610][ 65]LightingResults: New page: Lighting Build
+[2023.02.06-09.42.06:610][ 65]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.02.06-09.42.06:614][ 65]LogWorld: UWorld::CleanupWorld for defaultMap1, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-09.42.06:615][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-09.42.06:615][ 65]MapCheck: New page: Map Check
+[2023.02.06-09.42.06:615][ 65]LightingResults: New page: Lighting Build
+[2023.02.06-09.42.06:623][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-09.42.06:625][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.02.06-09.42.06:652][ 65]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.02.06-09.42.06:652][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-09.42.06:653][ 65]LogAIModule: Creating AISystem for world Untitled_2
+[2023.02.06-09.42.06:705][ 65]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-09.42.06:718][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.06-09.42.06:718][ 65]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-09.42.06:719][ 65]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2023.02.06-09.42.06:719][ 65]LogFileHelpers: Loading map 'Template_Default' took 0.128
+[2023.02.06-09.42.08:815][174]LogShaderCompilers: Display: ================================================
+[2023.02.06-09.42.08:815][174]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.06-09.42.08:815][174]LogShaderCompilers: Display: Total job queries 350, among them cache hits 11 (3.14%)
+[2023.02.06-09.42.08:815][174]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 195 distinct outputs (59.63%)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: RAM used: 2.53 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.35%
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Shaders Compiled: 134
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Jobs assigned 137, completed 134 (97.81%)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Average time worker was idle: 18.79 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Time job spent in pending queue: average 43.97 s, longest 75.48 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Job execution time: average 1.82 s, max 8.03 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Job life time (pending + execution): average 46.76 s, max 76.29
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.15 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Average processing rate: 1.52 jobs/sec
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Total thread time: 139.98 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Total thread preprocess time: 7.42 s
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Percentage time preprocessing: 5.30%
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Effective parallelization: 1.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 1.74 sec, max 1.87 sec, min 1.59 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   14 times, average 1.55 sec, max 1.77 sec, min 1.45 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   14 times, average 1.42 sec, max 1.55 sec, min 1.34 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   14 times, average 1.37 sec, max 1.50 sec, min 1.16 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   15 times, average 1.32 sec, max 1.43 sec, min 1.25 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.42% of total time (compiled   14 times, average 1.74 sec, max 1.87 sec, min 1.59 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.55% of total time (compiled   14 times, average 1.55 sec, max 1.77 sec, min 1.45 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 14.24% of total time (compiled   14 times, average 1.42 sec, max 1.55 sec, min 1.34 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.15% of total time (compiled   15 times, average 1.32 sec, max 1.43 sec, min 1.25 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.67% of total time (compiled   14 times, average 1.37 sec, max 1.50 sec, min 1.16 sec)
+[2023.02.06-09.42.08:816][174]LogShaderCompilers: Display: ================================================
+[2023.02.06-09.42.46:355][893]Cmd: DELETE
+[2023.02.06-09.42.46:355][893]Cmd: ACTOR DELETE
+[2023.02.06-09.42.46:359][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.06-09.42.46:375][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.06-09.42.46:377][893]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.02.06-09.43.21:639][860]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.06-09.43.25:720][ 25]LogViewport: Scene viewport resized to 653x549, mode Windowed.
+[2023.02.06-09.45.05:082][138]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.02.06-09.47.06:200][ 57]Cmd: EDIT COPY
+[2023.02.06-09.47.07:378][131]Cmd: EDIT PASTE
+[2023.02.06-09.47.28:423][127]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.06-09.47.31:548][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.06-09.47.31:552][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.47.44:216][328]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.06-09.47.44:260][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.47.44:272][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.06-09.47.44:286][328]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.47.44:287][328]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevel65B87175459E4E6459AA078FFF5D0F51.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.47.44:302][328]LogFileHelpers: Saving map 'MainLevel' took 0.077
+[2023.02.06-09.47.44:308][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.7 sec (total: 16.7 sec)
+[2023.02.06-09.47.44:311][328]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.47.44:312][328]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.48.42:894][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.02.06-09.48.42:900][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.48.42:961][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.48.42:972][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.06-09.48.42:983][713]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.48.42:984][713]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevelE5D0539E44687AC614914DAC35DB064D.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.48.42:996][713]LogFileHelpers: Saving map 'MainLevel' took 0.035
+[2023.02.06-09.48.43:002][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 16.8 sec)
+[2023.02.06-09.48.43:006][713]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.48.43:006][713]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.49.33:993][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.02.06-09.49.33:998][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.49.34:061][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.49.34:071][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.06-09.49.34:082][466]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.49.34:083][466]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevelF580C07D455FCF2382767683749BAB7D.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.49.34:095][466]LogFileHelpers: Saving map 'MainLevel' took 0.034
+[2023.02.06-09.49.34:101][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 17.0 sec)
+[2023.02.06-09.49.34:106][466]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.49.34:106][466]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveBeginPlay' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveTick' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:UserConstructionScript' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:404][563]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/Levels/BP_Projectile.PackageMetaData'
+[2023.02.06-09.49.51:562][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.49.51:647][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/BP_Projectile.uasset" SILENT=true
+[2023.02.06-09.49.51:652][563]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.02.06-09.49.51:652][563]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/BP_Projectile294F00504093B8C40B60739B84F3B43F.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/BP_Projectile.uasset'
+[2023.02.06-09.49.51:654][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BP_Projectile" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/BP_Projectile.uasset" SILENT=true
+[2023.02.06-09.49.51:655][563]LogSavePackage: Moving output files for package: /Game/Levels/BP_Projectile
+[2023.02.06-09.49.51:656][563]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/BP_Projectile6BE4CE4D443152E806B899A35EB8FACE.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/BP_Projectile.uasset'
+[2023.02.06-09.49.51:666][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 17.1 sec)
+[2023.02.06-09.49.51:723][563]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.06-09.49.51:723][563]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.BP_Projectile
+[2023.02.06-09.49.51:723][563]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.Default__BP_Projectile_C
+[2023.02.06-09.49.51:723][563]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.BP_Projectile_C
+[2023.02.06-09.49.51:723][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.SKEL_BP_Projectile_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.SKEL_BP_Projectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.SKEL_BP_Projectile_C:ReceiveTick' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.SKEL_BP_Projectile_C:UserConstructionScript' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:121][570]LogMetaData: Removing '/Game/Assets/BP_Projectile.BP_Projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Projectile.PackageMetaData'
+[2023.02.06-09.50.08:122][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.50.08:182][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/BP_Projectile" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/BP_Projectile.uasset" SILENT=true
+[2023.02.06-09.50.08:183][570]LogSavePackage: Moving output files for package: /Game/Levels/BP_Projectile
+[2023.02.06-09.50.08:184][570]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/BP_ProjectileEFD1FE914550DC793886BD9C00C08F0C.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/BP_Projectile.uasset'
+[2023.02.06-09.50.08:196][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BP_Projectile" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Assets/BP_Projectile.uasset" SILENT=true
+[2023.02.06-09.50.08:200][570]LogSavePackage: Moving output files for package: /Game/Assets/BP_Projectile
+[2023.02.06-09.50.08:200][570]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/BP_Projectile4E8DD39949463935A56DD890A1A324E9.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Assets/BP_Projectile.uasset'
+[2023.02.06-09.50.08:208][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 17.1 sec)
+[2023.02.06-09.50.08:349][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.06-09.50.08:360][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.06-09.50.08:367][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.06-09.50.08:388][570]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.06-09.50.08:388][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.BP_Projectile
+[2023.02.06-09.50.08:388][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.Default__BP_Projectile_C
+[2023.02.06-09.50.08:388][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Levels/BP_Projectile.BP_Projectile_C
+[2023.02.06-09.50.08:388][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/BP_Projectile.BP_Projectile
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: ================================================
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Total job queries 355, among them cache hits 11 (3.10%)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Tracking 331 distinct input hashes that result in 199 distinct outputs (60.12%)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: RAM used: 2.56 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.36%
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Shaders Compiled: 138
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Jobs assigned 141, completed 138 (97.87%)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Average time worker was idle: 29.08 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Time job spent in pending queue: average 42.74 s, longest 75.48 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Job execution time: average 1.84 s, max 8.03 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Job life time (pending + execution): average 45.49 s, max 76.29
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.55 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Jobs were issued in 141 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Total thread time: 147.37 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Total thread preprocess time: 7.88 s
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Percentage time preprocessing: 5.35%
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Effective parallelization: 1.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 1.78 sec, max 2.36 sec, min 1.59 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 1.60 sec, max 2.28 sec, min 1.45 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   14 times, average 1.42 sec, max 1.55 sec, min 1.34 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   14 times, average 1.37 sec, max 1.50 sec, min 1.16 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   15 times, average 1.32 sec, max 1.43 sec, min 1.25 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.15% of total time (compiled   15 times, average 1.78 sec, max 2.36 sec, min 1.59 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.37% of total time (compiled   16 times, average 1.60 sec, max 2.28 sec, min 1.45 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 13.53% of total time (compiled   14 times, average 1.42 sec, max 1.55 sec, min 1.34 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.44% of total time (compiled   15 times, average 1.32 sec, max 1.43 sec, min 1.25 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.99% of total time (compiled   14 times, average 1.37 sec, max 1.50 sec, min 1.16 sec)
+[2023.02.06-09.50.30:783][227]LogShaderCompilers: Display: ================================================
+[2023.02.06-09.50.40:081][680]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.06-09.50.40:081][680]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.06-09.50.40:082][680]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.06-09.50.44:657][872]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.06-09.51.16:055][690]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.06-09.51.37:298][507]LogViewport: Scene viewport resized to 656x549, mode Windowed.
+[2023.02.06-09.51.37:373][509]LogViewport: Scene viewport resized to 677x549, mode Windowed.
+[2023.02.06-09.51.37:424][511]LogViewport: Scene viewport resized to 686x549, mode Windowed.
+[2023.02.06-09.51.37:853][541]LogViewport: Scene viewport resized to 697x549, mode Windowed.
+[2023.02.06-09.51.37:910][543]LogViewport: Scene viewport resized to 714x549, mode Windowed.
+[2023.02.06-09.51.37:947][544]LogViewport: Scene viewport resized to 722x549, mode Windowed.
+[2023.02.06-09.51.37:989][546]LogViewport: Scene viewport resized to 733x549, mode Windowed.
+[2023.02.06-09.51.38:038][548]LogViewport: Scene viewport resized to 740x549, mode Windowed.
+[2023.02.06-09.51.38:088][550]LogViewport: Scene viewport resized to 748x549, mode Windowed.
+[2023.02.06-09.51.38:136][552]LogViewport: Scene viewport resized to 755x549, mode Windowed.
+[2023.02.06-09.51.38:186][554]LogViewport: Scene viewport resized to 763x549, mode Windowed.
+[2023.02.06-09.51.38:239][556]LogViewport: Scene viewport resized to 771x549, mode Windowed.
+[2023.02.06-09.51.38:285][558]LogViewport: Scene viewport resized to 774x549, mode Windowed.
+[2023.02.06-09.51.38:335][560]LogViewport: Scene viewport resized to 776x549, mode Windowed.
+[2023.02.06-09.51.38:520][572]LogViewport: Scene viewport resized to 775x549, mode Windowed.
+[2023.02.06-09.51.42:269][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.02.06-09.51.42:269][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.02.06-09.51.42:269][749]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_0
+[2023.02.06-09.51.44:847][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.02.06-09.51.44:847][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.02.06-09.51.44:849][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01 as actor: StaticMeshActor /Game/Levels/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_2
+[2023.02.06-09.52.21:055][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.06-09.52.21:063][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.52.21:120][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.52.21:130][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.06-09.52.21:141][246]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.52.21:142][246]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevel82B54821432324D329A02E8E89CCE740.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.52.21:154][246]LogFileHelpers: Saving map 'MainLevel' took 0.034
+[2023.02.06-09.52.21:160][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 17.2 sec)
+[2023.02.06-09.52.21:164][246]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.52.21:164][246]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.53.03:208][971]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.02.06-09.54.40:065][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.06-09.54.40:074][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.54.40:141][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.54.40:151][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.06-09.54.40:163][201]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.54.40:164][201]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevel03EEB0F54586E3CCA9486DA45F3E2361.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.54.40:176][201]LogFileHelpers: Saving map 'MainLevel' took 0.036
+[2023.02.06-09.54.40:189][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 17.4 sec)
+[2023.02.06-09.54.40:193][201]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.54.40:193][201]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.55.18:419][503]Cmd: TRANSACTION UNDO
+[2023.02.06-09.55.18:423][503]LogEditorTransaction: Undo Clicking on Elements
+[2023.02.06-09.55.19:058][518]Cmd: TRANSACTION UNDO
+[2023.02.06-09.55.19:058][518]LogEditorTransaction: Undo Move Elements
+[2023.02.06-09.55.25:304][870]Cmd: EDCALLBACK SURFPROPS
+[2023.02.06-09.57.24:764][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.06-09.57.24:773][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-09.57.24:836][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-09.57.24:845][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.06-09.57.24:865][ 12]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-09.57.24:866][ 12]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevel2F7AC0974035A8A9D6DDF297E0D23C3A.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-09.57.24:879][ 12]LogFileHelpers: Saving map 'MainLevel' took 0.044
+[2023.02.06-09.57.24:886][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 17.5 sec)
+[2023.02.06-09.57.24:890][ 12]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-09.57.24:890][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-09.57.44:239][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.06-09.59.53:054][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.06-10.01.13:776][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.06-10.01.13:872][ 56]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/defaultMap1.defaultMap1
+[2023.02.06-10.01.13:873][ 56]Cmd: MAP LOAD FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/defaultMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.06-10.01.13:873][ 56]LightingResults: New page: Lighting Build
+[2023.02.06-10.01.13:873][ 56]LoadErrors: New page: Loading map: defaultMap1.umap
+[2023.02.06-10.01.13:875][ 56]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.01.13:875][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.01.13:875][ 56]MapCheck: New page: Map Check
+[2023.02.06-10.01.13:875][ 56]LightingResults: New page: Lighting Build
+[2023.02.06-10.01.13:883][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-10.01.13:884][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.06-10.01.13:886][ 56]LogWorld: UWorld::CleanupWorld for defaultMap1, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.01.13:886][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.01.13:900][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.06-10.01.13:908][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.06-10.01.13:922][ 56]LogAudio: Display: Audio Device (ID: 1) registered with world 'defaultMap1'.
+[2023.02.06-10.01.13:922][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-10.01.13:922][ 56]LogAIModule: Creating AISystem for world defaultMap1
+[2023.02.06-10.01.13:973][ 56]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-10.01.13:987][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.06-10.01.13:998][ 56]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-10.01.13:998][ 56]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2023.02.06-10.01.13:998][ 56]LogFileHelpers: Loading map 'defaultMap1' took 0.126
+[2023.02.06-10.01.23:230][583]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/defaultMap1.defaultMap1:PersistentLevel.defaultMap1
+[2023.02.06-10.01.23:263][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-10.01.25:233][583]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.02.06-10.01.27:906][583]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005976s (2.675230s overbudget)
+[2023.02.06-10.01.27:939][583]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.06-10.01.47:702][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.06-10.01.47:780][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-10.01.47:780][367]Cmd: MAP LOAD FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.06-10.01.47:780][367]LightingResults: New page: Lighting Build
+[2023.02.06-10.01.47:780][367]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.02.06-10.01.47:848][367]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.01.47:848][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.01.47:975][367]LogWorld: UWorld::CleanupWorld for defaultMap1, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.01.47:975][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.01.47:975][367]MapCheck: New page: Map Check
+[2023.02.06-10.01.47:975][367]LightingResults: New page: Lighting Build
+[2023.02.06-10.01.48:032][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.06-10.01.48:038][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.06-10.01.48:045][367]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.01.48:045][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.01.48:086][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.06-10.01.48:121][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.06-10.01.48:130][367]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.02.06-10.01.48:130][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-10.01.48:130][367]LogAIModule: Creating AISystem for world MainLevel
+[2023.02.06-10.01.48:197][367]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.06-10.01.48:244][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.06-10.01.48:269][367]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.06-10.01.48:270][367]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
+[2023.02.06-10.01.48:270][367]LogFileHelpers: Loading map 'MainLevel' took 0.490
+[2023.02.06-10.01.51:245][515]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel
+[2023.02.06-10.01.51:245][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-10.02.04:078][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.06-10.02.04:082][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.06-10.02.04:143][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.06-10.02.04:177][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.02.06-10.02.04:200][126]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.02.06-10.02.04:201][126]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Saved/MainLevel90C6F78E43A122A18AA9B39898D2B126.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/DestructionGame/Content/Levels/MainLevel.umap'
+[2023.02.06-10.02.04:214][126]LogFileHelpers: Saving map 'MainLevel' took 0.072
+[2023.02.06-10.02.04:219][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 17.6 sec)
+[2023.02.06-10.02.04:225][126]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.06-10.02.04:225][126]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.02.06-10.02.06:993][272]LogSlate: Window 'MainLevel' being destroyed
+[2023.02.06-10.02.10:298][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.06-10.02.10:307][502]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.06-10.02.10:307][502]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2023.02.06-10.02.10:362][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.06-10.02.10:363][502]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2023.02.06-10.02.10:363][502]PIE: New page: PIE session: MainLevel (7/02/2023, 12:02:10 pm)
+[2023.02.06-10.02.10:363][502]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.06-10.02.10:371][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008250s)
+[2023.02.06-10.02.10:371][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.008290s)
+[2023.02.06-10.02.10:372][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.06-10.02.10:372][502]LogAIModule: Creating AISystem for world MainLevel
+[2023.02.06-10.02.10:372][502]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2023.02.06-10.02.10:406][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.06-10.02.10:407][502]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.06-10.02.10:407][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.06-10.02.10:407][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.06-10.02.10:408][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.06-10.02.10:408][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.06-10.02.10:408][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.06-10.02.10:410][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.06-10.02.10:425][502]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.06-10.02.10:426][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.06-10.02.10:426][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.06-10.02.10:426][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.06-10.02.10:427][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.06-10.02.10:427][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.06-10.02.10:429][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.06-10.02.10:429][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.06-10.02.10:429][502]LogInit: FAudioDevice initialized.
+[2023.02.06-10.02.10:429][502]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2023.02.06-10.02.10:434][502]LogLoad: Game class is 'GameModeBase'
+[2023.02.06-10.02.10:434][502]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.02.06-23.02.10
+[2023.02.06-10.02.10:435][502]LogWorld: Bringing up level for play took: 0.001066
+[2023.02.06-10.02.10:437][502]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.02.06-10.02.10:438][502]LogBlueprintUserMessages: [MainLevel_C_0] The goal is to destroy as much as possible with the limited projectiles.
+[2023.02.06-10.02.10:438][502]LogBlueprintUserMessages: [MainLevel_C_0] Welcome to Warehouse Wreckage!!
+[2023.02.06-10.02.10:438][502]PIE: Server logged in
+[2023.02.06-10.02.10:439][502]PIE: Play in editor total start time 0.133 seconds.
+[2023.02.06-10.02.54:787][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-10.02.54:788][ 95]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.06-10.02.54:788][ 95]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.06-10.02.54:788][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.02.54:792][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.06-10.02.54:798][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.06-10.02.54:837][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.06-10.02.54:838][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.06-10.02.54:839][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.06-10.02.54:848][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.06-10.02.54:927][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.02.06-10.02.57:003][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
