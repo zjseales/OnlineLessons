@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObstacleCourse",
+			"Path": "C:\\Users\\Zac\\Documents\\OnlineLessons\\ObstacleCourse\\Source\\ObstacleCourse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObstacleCourseEditor",
+			"Path": "C:\\Users\\Zac\\Documents\\OnlineLessons\\ObstacleCourse\\Source\\ObstacleCourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
