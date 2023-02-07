@@ -23,14 +23,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	// Some test variables that can be altered in the unreal editor
+	//A vector
 	UPROPERTY(EditAnywhere)
-	int32 MyInt = 99;
+	FVector MyVector = FVector(-15300, -1230, 4060);
 
-	UPROPERTY(EditAnywhere)
-	float MyFloat = 543.2467;
-
-	UPROPERTY(EditAnywhere)
-	bool MyBool = true;
-	
 };
