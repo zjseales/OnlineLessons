@@ -23,4 +23,14 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	// The moving platforms speed.
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	FVector PlatformVelocity = FVector(100, 0, 0);
+
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	float MaxDistance = 1000;
+	
+	// The starting location of the platform.
+	FVector StartLocation;
+
 };
