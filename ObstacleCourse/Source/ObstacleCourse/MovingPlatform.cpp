@@ -18,6 +18,10 @@ void AMovingPlatform::BeginPlay()
 
 	StartLocation = GetActorLocation();
 
+	FString Name = GetName();
+
+	UE_LOG(LogTemp, Display, TEXT("Begin moving: %s"), *Name);
+
 }
 
 // Called every frame
@@ -25,13 +29,21 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	// Move platform forward
+	MovePlatform(DeltaTime);
+
+	RotatePlatform(DeltaTime);
+
+}
+
+// Defines the movement of this platform object.
+void AMovingPlatform::MovePlatform(float DeltaTime)
+{
+	// Move platform.
 	FVector CurrentLocation = GetActorLocation();
 	CurrentLocation += PlatformVelocity * DeltaTime;
 	SetActorLocation(CurrentLocation);
-	// Move platform back
 	float DistanceTravelled = FVector::Dist(StartLocation, CurrentLocation);
-	//reverse direction
+	// reverse direction
 	if(DistanceTravelled > MaxDistance)
 	{
 		FVector MovementDirection = PlatformVelocity.GetSafeNormal();
@@ -39,6 +51,11 @@ void AMovingPlatform::Tick(float DeltaTime)
 		SetActorLocation(StartLocation);
 		PlatformVelocity *= -1;
 	}
+}
 
+// Defines Platform Rotation
+void AMovingPlatform::RotatePlatform(float DeltaTime)
+{
+	UE_LOG(LogTemp, Display, TEXT("%s rotating..."), *GetName());
 }
 
