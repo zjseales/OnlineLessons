@@ -30098,3 +30098,10 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.02.22-02.39.41:653][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2023.02.22-02.39.41:674][448]Display: Reload/Re-instancing Complete: 1 class unchanged
 [2023.02.22-02.39.41:674][448]LogLiveCoding: Display: Live coding succeeded
+[2023.02.22-02.40.28:354][933]Cmd: POLY SELECT MEMORY UNION
+[2023.02.22-02.40.28:830][949]Cmd: POLY SELECT MEMORY UNION
+[2023.02.22-02.43.40:437][437]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.22-02.43.55:440][886]LogLiveCoding: Display:    Creating library C:\Users\Zac\Documents\OnlineLessons\ObstacleCourse\Binaries\Win64\UnrealEditor-ObstacleCourse.patch_7.lib and object C:\Users\Zac\Documents\OnlineLessons\ObstacleCourse\Binaries\Win64\UnrealEditor-ObstacleCourse.patch_7.exp
+[2023.02.22-02.43.55:763][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.22-02.43.55:785][890]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2023.02.22-02.43.55:785][890]LogLiveCoding: Display: Live coding succeeded

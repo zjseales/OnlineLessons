@@ -59,13 +59,13 @@ void AMovingPlatform::RotatePlatform(float DeltaTime)
 }
 
 // Returns a boolean defining whether the platform should change direction.
-bool AMovingPlatform::ShouldPlatformReturn()
+bool AMovingPlatform::ShouldPlatformReturn() const
 {
 	return GetDistanceTravelled() > MaxDistance;
 }
 
 // Returns the distance that the object has travelled from its start location.
-float AMovingPlatform::GetDistanceTravelled()
+float AMovingPlatform::GetDistanceTravelled() const
 {
 	return FVector::Dist(StartLocation, GetActorLocation());
 }
