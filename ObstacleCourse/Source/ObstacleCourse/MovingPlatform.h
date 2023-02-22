@@ -41,4 +41,8 @@ private:
 	// Function to define platform rotation
 	void RotatePlatform(float DeltaTime);
 
+	bool ShouldPlatformReturn();
+
+	float GetDistanceTravelled();
+
 };

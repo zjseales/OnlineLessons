@@ -42,9 +42,8 @@ void AMovingPlatform::MovePlatform(float DeltaTime)
 	FVector CurrentLocation = GetActorLocation();
 	CurrentLocation += PlatformVelocity * DeltaTime;
 	SetActorLocation(CurrentLocation);
-	float DistanceTravelled = FVector::Dist(StartLocation, CurrentLocation);
 	// reverse direction
-	if(DistanceTravelled > MaxDistance)
+	if(ShouldPlatformReturn())
 	{
 		FVector MovementDirection = PlatformVelocity.GetSafeNormal();
 		StartLocation = StartLocation + MovementDirection * MaxDistance;
@@ -57,5 +56,17 @@ void AMovingPlatform::MovePlatform(float DeltaTime)
 void AMovingPlatform::RotatePlatform(float DeltaTime)
 {
 	UE_LOG(LogTemp, Display, TEXT("%s rotating..."), *GetName());
+}
+
+// Returns a boolean defining whether the platform should change direction.
+bool AMovingPlatform::ShouldPlatformReturn()
+{
+	return GetDistanceTravelled() > MaxDistance;
+}
+
+// Returns the distance that the object has travelled from its start location.
+float AMovingPlatform::GetDistanceTravelled()
+{
+	return FVector::Dist(StartLocation, GetActorLocation());
 }
 
