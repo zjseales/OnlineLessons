@@ -17,7 +17,7 @@ void AMovingPlatform::BeginPlay()
 	Super::BeginPlay();
 
 	StartLocation = GetActorLocation();
-	
+
 }
 
 // Called every frame
