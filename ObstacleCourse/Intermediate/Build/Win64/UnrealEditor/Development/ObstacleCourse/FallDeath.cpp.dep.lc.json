@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\onlinelessons\\obstaclecourse\\source\\obstaclecourse\\falldeath.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\onlinelessons\\obstaclecourse\\intermediate\\build\\win64\\obstaclecourseeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\onlinelessons\\obstaclecourse\\intermediate\\build\\win64\\unrealeditor\\development\\obstaclecourse\\definitions.obstaclecourse.h",
+            "c:\\users\\zac\\documents\\onlinelessons\\obstaclecourse\\source\\obstaclecourse\\falldeath.h",
+            "c:\\users\\zac\\documents\\onlinelessons\\obstaclecourse\\intermediate\\build\\win64\\unrealeditor\\inc\\obstaclecourse\\uht\\falldeath.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -25,12 +25,16 @@ public:
 
 private:
 	// The moving platforms speed.
-	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	UPROPERTY(EditAnywhere, Category="Moving")
 	FVector PlatformVelocity = FVector(100, 0, 0);
 
 	// The default maximum distance of the moving platform.
-	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	UPROPERTY(EditAnywhere, Category="Moving")
 	float MaxDistance = 1000;
+
+	// The rotation speed.
+	UPROPERTY(EditAnywhere, Category="Rotating")
+	FRotator RotationVelocity;
 
 	// The starting location of the platform.
 	FVector StartLocation;
