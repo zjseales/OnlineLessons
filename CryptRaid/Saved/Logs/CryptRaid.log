@@ -5910,3 +5910,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.25-06.13.06:290][990]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.02.25-06.13.06:321][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2023.02.25-06.13.06:323][990]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.02.25-06.14.59:292][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.02.25-06.14.59:723][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainDungeon_Auto1
+[2023.02.25-06.14.59:725][627]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon_Auto1903D26544F3EBBCBC967C3B9E7BF487F.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/Autosaves/Game/MainDungeon_Auto1.umap'
+[2023.02.25-06.14.59:747][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainDungeon' took 0.491
+[2023.02.25-06.14.59:747][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.491
