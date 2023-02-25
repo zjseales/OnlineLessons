@@ -8802,3 +8802,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.25-09.17.46:602][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 573 ms (total: 3.05 sec)
 [2023.02.25-09.17.46:606][645]AssetCheck: New page: Asset Save: MainDungeon
 [2023.02.25-09.17.46:606][645]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.25-09.22.52:124][590]LogEditorViewport: Clicking Background
+[2023.02.25-09.35.28:814][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.25-09.35.29:155][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainDungeon_Auto3
+[2023.02.25-09.35.29:156][829]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon_Auto36CA6E459416A1366FD16F2A1912DD4C1.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/Autosaves/Game/MainDungeon_Auto3.umap'
+[2023.02.25-09.35.29:168][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainDungeon' took 0.364
+[2023.02.25-09.35.29:168][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.364
+[2023.02.25-09.44.05:161][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.25-09.44.05:169][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.25-09.44.05:280][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.25-09.44.05:292][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.02.25-09.44.05:669][559]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.25-09.44.05:670][559]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeonEF56893C4AA2FE027B4623909B6D0F77.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.25-09.44.05:695][559]LogFileHelpers: Saving map 'MainDungeon' took 0.417
+[2023.02.25-09.44.05:701][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 532 ms (total: 3.58 sec)
+[2023.02.25-09.44.05:705][559]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.25-09.44.05:705][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.25-09.44.12:977][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.02.25-09.44.12:991][660]LogStall: Shutdown...
+[2023.02.25-09.44.13:048][660]LogStall: Shutdown complete.
+[2023.02.25-09.44.13:390][660]LogSlate: Window 'CryptRaid - Unreal Editor' being destroyed
+[2023.02.25-09.44.14:257][661]Cmd: QUIT_EDITOR
+[2023.02.25-09.44.14:257][661]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.25-09.44.14:372][661]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.25-09.44.14:372][661]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.25-09.44.14:388][661]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.25-09.44.14:557][661]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-09.44.14:656][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-09.44.15:502][661]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.25-09.44.15:720][661]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.25-09.44.16:461][661]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.25-09.44.16:462][661]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.25-09.44.16:462][661]LogAudio: Display: Audio Device unregistered from world 'MainDungeon'.
+[2023.02.25-09.44.16:500][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.25-09.44.16:503][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.25-09.44.16:620][661]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.25-09.44.16:806][661]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.25-09.44.16:814][661]LogExit: Preparing to exit.
+[2023.02.25-09.44.18:126][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
