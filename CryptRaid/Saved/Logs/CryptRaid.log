@@ -7197,3 +7197,1003 @@ Purging the undo buffer...
 [2023.02.26-08.44.16:461][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2023.02.26-08.45.16:899][959]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
  See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.30:842][311]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (54 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.31:455][318]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (147 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.34:159][361]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (114 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.43:046][550]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.44:855][574]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (91 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.48:428][616]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (52 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.50:302][645]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (169 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.46.55:890][709]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (215 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.47.09:816][144]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (360 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.47.22:960][546]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.47.40:086][113]Cmd: DELETE
+[2023.02.26-08.47.40:086][113]Cmd: ACTOR DELETE
+[2023.02.26-08.47.40:131][113]LogEditorActor: Deleted Actor: BP_Chandalier_C
+[2023.02.26-08.47.40:169][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.26-08.47.40:178][113]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.02.26-08.47.54:776][645]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (63 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.47.57:049][682]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (297 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.02:813][743]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.08:178][822]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (96 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.08:841][832]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.19:776][998]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.24:431][ 69]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.26:744][101]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.29:248][150]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.48.46:578][472]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (59 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.49.55:784][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.26-08.49.55:799][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-08.49.55:859][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.26-08.49.55:893][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.26-08.49.56:426][493]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.26-08.49.56:427][493]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon61EA059C4CB20E4AA30BD29584B21827.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.26-08.49.56:453][493]LogFileHelpers: No new changes to save!
+[2023.02.26-08.49.56:453][493]LogFileHelpers: Saving map 'MainDungeon' took 0.596
+[2023.02.26-08.49.56:468][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 668 ms (total: 2:25 min)
+[2023.02.26-08.49.56:486][493]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.26-08.49.56:486][493]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.26-08.50.32:228][919]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (174 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.39:493][ 45]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (179 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.46:984][155]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (177 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.50:061][196]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (47 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.53:361][236]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.54:468][252]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.57:720][310]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.50.59:446][367]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.00:965][416]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.04:119][471]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.04:884][482]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.05:244][487]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.05:543][491]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (90 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.05:690][493]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.06:124][499]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (78 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.08:971][537]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (81 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.16:186][643]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.20:953][739]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (155 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.22:881][762]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.30:088][871]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.31:586][890]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.53:460][312]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.51.54:914][332]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.13:534][613]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (29 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.16:191][645]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (40 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.17:514][662]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.18:371][673]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.23:023][741]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.31:236][882]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.52.53:372][380]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (105 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.53.03:710][522]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (196 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.53.07:693][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.26-08.54.43:916][188]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2023.02.26-08.54.44:250][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-08.54.45:353][188]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.02.26-08.54.46:026][189]LogAutomationController: Ignoring very large delta of 2.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.55.00:467][436]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.55.00:467][436]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.55.00:467][436]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.55.28:286][ 40]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.55.28:286][ 40]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.55.28:286][ 40]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.55.39:363][328]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor) ...
+[2023.02.26-08.55.39:391][328]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2023.02.26-08.55.39:594][328]LogStaticMesh: Built static mesh [0.23s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2023.02.26-08.55.41:126][366]LogMeshUtilities: Finished distance field build in 1.4s - 119x119x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, SM_Floor
+[2023.02.26-08.55.59:143][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-08.56.00:146][831]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor
+[2023.02.26-08.56.00:147][831]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/SM_Floor98EEE9AB4E2B9C7B1A7ACB912F094285.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset'
+[2023.02.26-08.56.00:156][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.01 sec (total: 2:26 min)
+[2023.02.26-08.56.00:224][831]AssetCheck: New page: Asset Save: SM_Floor
+[2023.02.26-08.56.00:224][831]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2023.02.26-08.56.00:886][832]LogAutomationController: Ignoring very large delta of 2.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.56.02:338][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.26-08.56.02:353][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-08.56.02:423][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.26-08.56.02:458][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.26-08.56.07:613][864]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.26-08.56.07:616][864]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon96CA03B6437FB2689127BB88B590C30C.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.26-08.56.07:643][864]LogFileHelpers: No new changes to save!
+[2023.02.26-08.56.07:643][864]LogFileHelpers: Saving map 'MainDungeon' took 5.222
+[2023.02.26-08.56.07:653][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.29 sec (total: 2:32 min)
+[2023.02.26-08.56.07:672][864]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.26-08.56.07:672][864]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.26-08.56.07:725][865]LogAutomationController: Ignoring very large delta of 5.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.56.11:837][925]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.56.11:837][925]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.56.11:837][925]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.56.16:212][928]LogAutomationController: Ignoring very large delta of 4.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.56.18:775][968]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.56.25:794][112]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.56.25:794][112]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.56.25:794][112]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.56.30:154][113]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.56.30:154][113]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.56.30:154][113]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.56.30:161][114]LogAutomationController: Ignoring very large delta of 4.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.56.45:183][159]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2023.02.26-08.56.45:183][159]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2023.02.26-08.56.45:183][159]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.02.26-08.56.48:330][169]Job is a success!
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.118s
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb (trimmed 2.4Mb due to 0.010000 MinBrickError)
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:          0: 9.0% covering 100.0% of volume
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:          1: 78.7% covering 13.7% of volume
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:          2: 12.4% covering 0.0% of volume
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.26-08.56.49:852][170]LogVolumetricLightmapImport:          MainDungeon 			 89 bricks 	 100.0% (Persistent Level)
+[2023.02.26-08.56.52:348][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A6B
+[2023.02.26-08.56.52:350][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A6C
+[2023.02.26-08.56.52:360][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A6F
+[2023.02.26-08.56.52:362][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A70
+[2023.02.26-08.56.52:362][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A71
+[2023.02.26-08.56.52:366][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A6A
+[2023.02.26-08.56.52:368][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A75
+[2023.02.26-08.56.52:370][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A77
+[2023.02.26-08.56.52:371][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A78
+[2023.02.26-08.56.52:374][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A79
+[2023.02.26-08.56.52:379][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A74
+[2023.02.26-08.56.52:383][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A69
+[2023.02.26-08.56.52:383][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A67
+[2023.02.26-08.56.52:398][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000A68
+[2023.02.26-08.56.52:570][170]LogLightmassSolver: Warning: Mapping not found for 74EEE14941C1F81D9AEBD1AE1245FBB1
+[2023.02.26-08.56.52:914][170]LogLightmassSolver: Warning: Failed to find light for texture mapping: 74EEE14941C1F81D9AEBD1AE1245FBB1
+[2023.02.26-08.56.55:618][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000B56
+[2023.02.26-08.56.55:623][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000B59
+[2023.02.26-08.56.55:629][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000B5C
+[2023.02.26-08.56.55:647][170]LogLightmassSolver: Warning: Mapping not found for 00000000000000000000000000000B53
+[2023.02.26-08.56.56:096][170]LightingResults: Warning: RectLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.02.26-08.56.56:096][170]LightingResults: Warning: PointLight_9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.02.26-08.56.56:096][170]LightingResults: Warning: PointLight_12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.02.26-08.57.02:406][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.02:509][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:411][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:457][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:486][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:524][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:546][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:567][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:591][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:620][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.03:939][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:013][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:321][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_20 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:337][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_20 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:365][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_20 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:398][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_21 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:415][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_21 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:442][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_21 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:469][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_22 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:485][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_22 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:527][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_22 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:566][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_23 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:581][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_23 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:603][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_23 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:639][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_24 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:652][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_24 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:678][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_24 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:724][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_25 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:753][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_25 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:782][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_26 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:796][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_26 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:824][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_26 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:842][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_27 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:858][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_27 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:888][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_28 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:916][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_29 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:932][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_29 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:965][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_29 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.04:995][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_30 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:012][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_30 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:045][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_30 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:086][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_31 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:116][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_31 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:133][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_32 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:159][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_32 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:183][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_32 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:210][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_33 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:222][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_33 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:251][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_33 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:274][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_34 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:300][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_34 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:335][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_34 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:356][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_35 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:371][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_35 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:406][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_35 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:437][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_36 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:450][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_36 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:488][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_36 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:510][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_37 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:535][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_37 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:557][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_38 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:580][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_38 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:598][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_40 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:611][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_40 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:632][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_41 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:647][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_41 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:666][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_42 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:681][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_42 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:713][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_42 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:749][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_43 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:764][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_43 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:804][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_43 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:828][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_44 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:845][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_45 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:857][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_45 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:890][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_45 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:909][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_46 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:921][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_46 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:952][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_46 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.05:978][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_47 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:002][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_47 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:048][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_47 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:075][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_51 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:090][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_51 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:114][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_51 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:137][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_52 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:150][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_52 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:189][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_52 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:221][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_53 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:244][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_53 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:264][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_54 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:292][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_54 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:314][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_55 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:334][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_55 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:356][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_56 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:373][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_56 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:398][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_56 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:425][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_58 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:437][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_58 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:481][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_58 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:512][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_60 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:528][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_60 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:552][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_60 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:580][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_61 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:591][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_61 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:624][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_61 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:648][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_62 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:659][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_62 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:682][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_62 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:706][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_63 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:737][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_63 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:755][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_64 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:778][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_64 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:808][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_64 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:834][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_65 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:849][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_65 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:879][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_65 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:908][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_66 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:926][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_66 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:966][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_66 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.06:988][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_67 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:004][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_67 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:051][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_67 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:078][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_68 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:117][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_68 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:137][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_69 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:154][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_69 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:189][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_69 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:225][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_70 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:243][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_70 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:289][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_70 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:325][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_71 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:348][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_71 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:461][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_71 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:544][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_72 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:568][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_72 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:641][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_72 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:702][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_73 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:727][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_73 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.07:795][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_73 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:016][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_74 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:042][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_74 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:088][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_74 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:129][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_75 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:143][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_75 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:183][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_75 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:229][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_76 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:245][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_76 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:290][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_76 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:330][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_77 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:348][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_77 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:392][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_77 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:426][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_78 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:446][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_78 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:477][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_78 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:504][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_79 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:517][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_79 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:552][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_79 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:573][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_80 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:588][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_80 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:631][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_80 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:666][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_81 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:680][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_81 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:718][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_81 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:745][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_82 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:758][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_82 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:783][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_82 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:803][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_83 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:818][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_83 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:849][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_83 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:875][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_84 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:885][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_84 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.08:922][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_84 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.09:228][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_85 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 40.270815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.09:244][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:HQ_Lightmap0_85 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 73.395816 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.09:278][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:LQ_Lightmap_0_85 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 71.395815 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.09:303][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:SkyOcclusion0_86 (TFO_AutoDXT, 64x32 x1x1x1) (Required Memory Estimate: 0.387945 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.12:324][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:ShadowMapTexture2D_36 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.12:339][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:ShadowMapTexture2D_37 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.12:354][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:ShadowMapTexture2D_38 (BGRA8, 1024x64 x1x1x1) (Required Memory Estimate: 2.062531 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.12:399][170]LogTexture: Display: Building textures: /Game/MainDungeon_BuiltData.MainDungeon_BuiltData:ShadowMapTexture2D_40 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.02.26-08.57.14:642][170]LogStaticLightingSystem: MainDungeon_BuiltData storing lightmap data for 2346 meshes in 130 LightmapResourceClusters (18.0 Meshes per cluster).
+[2023.02.26-08.57.15:284][170]Lightmass on DESKTOP-DAST5UK: 12:56 min total, 1.19 sec importing, 4.01 sec setup, 1:46 min photons, 11:02 min processing, 0 us extra exporting [2927/2927 mappings]. Threads: 44:10 min total, 20:25 min processing.
+[2023.02.26-08.57.16:297][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.02.26-08.57.16:389][170]LogStaticLightingSystem: Illumination: 13:04 min (13.2 sec encoding lightmaps, 3.09 sec encoding shadowmaps)
+[2023.02.26-08.57.16:389][170]LogStaticLightingSystem: Lightmap texture memory:  276.3 MB (276.3 MB streaming, 0.0 MB non-streaming), 172 textures
+[2023.02.26-08.57.16:389][170]LogStaticLightingSystem: Shadowmap texture memory: 42.5 MB (42.5 MB streaming, 0.0 MB non-streaming), 11 textures
+[2023.02.26-08.57.18:270][170]DumpUnbuiltLightIteractions
+[2023.02.26-08.57.18:270][170]Lights with unbuilt interactions: 0
+[2023.02.26-08.57.18:270][170]
+[2023.02.26-08.57.18:270][170]Primitives with unbuilt interactions: 0
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: ================================================
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Total job queries 1681, among them cache hits 74 (4.40%)
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Tracking 1591 distinct input hashes that result in 801 distinct outputs (50.35%)
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: RAM used: 11.68 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.63%
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Shaders Compiled: 1145
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Jobs assigned 1145, completed 1145 (100.00%)
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Average time worker was idle: 20.00 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Time job spent in pending queue: average 43.39 s, longest 148.35 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 13.50 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Job life time (pending + execution): average 44.69 s, max 148.96
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 416.92 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Jobs were issued in 1089 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Average processing rate: 2.75 jobs/sec
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Total thread time: 942.20 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Total thread preprocess time: 53.52 s
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Percentage time preprocessing: 5.68%
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Effective parallelization: 2.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.26-08.57.18:271][170]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.11 sec, max 1.11 sec, min 1.11 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   28 times, average 1.08 sec, max 1.90 sec, min 0.80 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   40 times, average 1.05 sec, max 1.81 sec, min 0.65 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 1.02 sec, max 1.55 sec, min 0.70 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   23 times, average 1.01 sec, max 2.02 sec, min 0.78 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.38% of total time (compiled  102 times, average 0.96 sec, max 2.94 sec, min 0.67 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.80% of total time (compiled  100 times, average 0.92 sec, max 2.77 sec, min 0.68 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.89% of total time (compiled   72 times, average 0.77 sec, max 2.48 sec, min 0.49 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.27% of total time (compiled   68 times, average 0.73 sec, max 2.11 sec, min 0.57 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.16% of total time (compiled   67 times, average 0.73 sec, max 1.30 sec, min 0.52 sec)
+[2023.02.26-08.57.18:272][170]LogShaderCompilers: Display: ================================================
+[2023.02.26-08.57.19:391][171]LogAutomationController: Ignoring very large delta of 30.78 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.57.19:391][171]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.26-08.57.19:391][171]MapCheck: New page: MainDungeon - 27/02/2023, 10:57:19 am
+[2023.02.26-08.57.19:429][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.833ms to complete.
+[2023.02.26-08.57.22:929][237]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-08.57.22:947][237]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-08.57.25:096][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.26-08.57.25:138][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-08.57.25:139][371]PIE: New page: PIE session: MainDungeon (27/02/2023, 10:57:25 am)
+[2023.02.26-08.57.25:139][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.26-08.57.25:874][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.735290s)
+[2023.02.26-08.57.25:874][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.735328s)
+[2023.02.26-08.57.25:900][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-08.57.25:901][371]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.26-08.57.25:902][371]LogPlayLevel: PIE: World Init took: (0.002141s)
+[2023.02.26-08.57.25:984][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.26-08.57.26:011][371]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-08.57.26:011][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.26-08.57.26:011][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-08.57.26:012][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-08.57.26:012][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-08.57.26:012][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-08.57.26:402][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-08.57.26:461][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.26-08.57.26:462][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-08.57.26:462][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-08.57.26:462][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-08.57.26:462][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.26-08.57.26:462][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.26-08.57.26:491][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.26-08.57.26:491][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.26-08.57.26:491][371]LogInit: FAudioDevice initialized.
+[2023.02.26-08.57.26:491][371]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainDungeon'.
+[2023.02.26-08.57.27:023][371]LogLoad: Game class is 'CryptRaidGameMode'
+[2023.02.26-08.57.27:480][371]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.26-21.57.27
+[2023.02.26-08.57.27:484][371]LogWorld: Bringing up level for play took: 0.461240
+[2023.02.26-08.57.27:670][371]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.02.26-08.57.27:965][371]PIE: Server logged in
+[2023.02.26-08.57.27:966][371]PIE: Play in editor total start time 2.827 seconds.
+[2023.02.26-08.57.30:235][372]LogAutomationController: Ignoring very large delta of 5.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.57.35:515][375]LogAutomationController: Ignoring very large delta of 3.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-08.57.35:633][375]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.38:968][435]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (128 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.46:829][535]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (100 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.50:751][634]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (155 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.52:392][638]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (168 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.56:853][764]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.57.59:035][801]LogDerivedDataCache: C:/Users/Zac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:10.440 and deleted 0 files with total size 0 MiB. Scanned 36477 files in 33232 folders with total size 4692 MiB.
+[2023.02.26-08.58.01:063][842]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.04:355][923]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (44 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.07:723][974]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (269 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.09:430][  7]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.26:052][383]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.27:658][416]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (186 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.33:200][556]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.36:085][606]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.43:195][764]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (120 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.56:692][ 78]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.58:413][108]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (120 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.58.59:765][134]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (209 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.00:737][154]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (60 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.10:336][391]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (99 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.20:433][663]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (117 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.21:013][675]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (76 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.23:960][749]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (119 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.27:543][839]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.26-08.59.38:496][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-08.59.38:496][ 61]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.26-08.59.38:497][ 61]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-08.59.38:554][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-08.59.38:574][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-08.59.38:583][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-08.59.38:616][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-08.59.38:627][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.26-08.59.38:629][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.26-08.59.38:635][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-08.59.38:760][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.02.26-08.59.38:859][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.02.26-08.59.42:306][264]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.02.26-08.59.42:371][264]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2023.02.26-08.59.42:371][264]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2023.02.26-08.59.42:371][264]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.02.26-08.59.42:372][264]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2023.02.26-08.59.42:372][264]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2023.02.26-08.59.42:389][264]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2023.02.26-08.59.42:405][264]LogConfig: CVar [[r.TSR.Velocity.HoleFill:0]] deferred - dummy variable created
+[2023.02.26-08.59.42:405][264]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2023.02.26-08.59.42:405][264]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.02.26-08.59.42:423][264]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2023.02.26-08.59.42:423][264]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2023.02.26-08.59.42:423][264]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2023.02.26-08.59.42:423][264]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2023.02.26-08.59.42:431][264]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2023.02.26-08.59.42:431][264]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2023.02.26-08.59.42:431][264]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2023.02.26-08.59.42:441][264]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.02.26-08.59.42:502][264]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.02.26-08.59.42:523][264]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.02.26-08.59.42:536][264]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2023.02.26-08.59.42:551][264]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2023.02.26-08.59.42:551][264]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2023.02.26-08.59.42:551][264]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2023.02.26-08.59.42:551][264]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2023.02.26-08.59.42:551][264]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2023.02.26-08.59.42:571][264]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2023.02.26-08.59.42:571][264]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2023.02.26-08.59.42:571][264]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.DetailMode:0]]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2023.02.26-08.59.42:588][264]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2023.02.26-08.59.42:589][264]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2023.02.26-08.59.42:598][264]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2023.02.26-08.59.42:598][264]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2023.02.26-08.59.42:598][264]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2023.02.26-08.59.42:598][264]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2023.02.26-08.59.42:598][264]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2023.02.26-08.59.42:609][264]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2023.02.26-08.59.42:610][264]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.02.26-08.59.42:610][264]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2023.02.26-08.59.42:610][264]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2023.02.26-08.59.42:610][264]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.02.26-08.59.42:627][264]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.02.26-08.59.42:651][264]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.26-08.59.47:849][264]LogMaterial: Warning: Incomplete material WireframeMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.47:849][264]LogMaterial: Display: Incomplete cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.48:934][264]LogMaterial: Warning: Incomplete material LevelColorationLitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.48:934][264]LogMaterial: Display: Incomplete cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.50:097][264]LogMaterial: Warning: Incomplete material LevelColorationUnlitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.50:097][264]LogMaterial: Display: Incomplete cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.50:867][264]LogMaterial: Warning: Incomplete material MAT_LevelColorationLitLightmapUV, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.50:867][264]LogMaterial: Display: Incomplete cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.52:006][264]LogMaterial: Warning: Incomplete material ShadedLevelColorationLitMaterial, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.52:007][264]LogMaterial: Display: Incomplete cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.53:242][264]LogMaterial: Warning: Incomplete material ShadedLevelColorationUnlitMateri, missing FMaterialShader (FTranslucentLightingInjectPS, 0).
+[2023.02.26-08.59.53:242][264]LogMaterial: Display: Incomplete cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: ), compiling. Is special engine material.
+[2023.02.26-08.59.58:105][264]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.26-08.59.59:228][264]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-08.59.59:228][264]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.02.26-08.59.59:228][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-08.59.59:228][264]MaterialEditorStats: Shader Count: 0
+[2023.02.26-09.00.01:108][265]LogAutomationController: Ignoring very large delta of 18.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-09.00.01:433][266]LogSlate: Took 0.048925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.26-09.00.02:498][270]LogContentStreaming: Texture pool size now 400 MB
+[2023.02.26-09.00.03:308][276]LogDerivedDataCache: Display: C:/Users/Zac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash add01ae718b5b84939ec47292b5942d5a2970c87 and existing hash 0c04793d2bd82a7b2488cbe6ad8166b174cd7696 for MaterialShaderMap/ebe32ad1c0fffa5566a1438cfebe0f1c1062596c from '/Game/MedievalDungeon/Materials/M_Torch_Flicker_Light_Function.M_Torch_Flicker_Light_Function [PCD3D_SM6, SM6, Num]'
+[2023.02.26-09.00.03:608][284]LogDerivedDataCache: Display: C:/Users/Zac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d47f94940af257efeece7588943598693342d90f and existing hash 38027cc1048bbc6e607c9914f4b7c22df20a251b for MaterialShaderMap/dd77f5bd9965abc568bc4013c8d0e52efac9748b from '/Game/MedievalDungeon/Materials/M_Master.M_Master [PCD3D_SM6, SM6, Num]'
+[2023.02.26-09.00.03:674][288]LogDerivedDataCache: Display: C:/Users/Zac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash bb3d12ba76190f1a667b78ac58bdcd56b89e3212 and existing hash 4368ef5d9214d59913b6227c1e9fef0497076354 for MaterialShaderMap/6ab6b698b43c0da0de4b618e8abbf2612695f17b from '/Game/MedievalDungeon/Materials/M_Flicker_Light_Function.M_Flicker_Light_Function [PCD3D_SM6, SM6, Num]'
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Total job queries 8565, among them cache hits 1155 (13.49%)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Tracking 1753 distinct input hashes that result in 906 distinct outputs (51.68%)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: RAM used: 13.06 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.82%
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Shaders Compiled: 1224
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Jobs assigned 1227, completed 1224 (99.76%)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Average time worker was idle: 48.12 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Time job spent in pending queue: average 41.03 s, longest 148.35 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Job execution time: average 1.33 s, max 19.35 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Job life time (pending + execution): average 42.41 s, max 148.96
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 472.19 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Jobs were issued in 1171 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Total thread time: 1039.06 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Total thread preprocess time: 58.69 s
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Percentage time preprocessing: 5.65%
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Effective parallelization: 2.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   32 times, average 1.12 sec, max 1.90 sec, min 0.80 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.11 sec, max 1.11 sec, min 1.11 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   44 times, average 1.08 sec, max 1.81 sec, min 0.65 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   30 times, average 1.07 sec, max 1.78 sec, min 0.83 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   30 times, average 1.06 sec, max 1.76 sec, min 0.85 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.49% of total time (compiled  103 times, average 0.96 sec, max 2.94 sec, min 0.67 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.09% of total time (compiled  102 times, average 0.93 sec, max 2.77 sec, min 0.68 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.41% of total time (compiled   73 times, average 0.77 sec, max 2.48 sec, min 0.49 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.19% of total time (compiled   72 times, average 0.75 sec, max 2.11 sec, min 0.57 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.06% of total time (compiled   71 times, average 0.74 sec, max 1.30 sec, min 0.52 sec)
+[2023.02.26-09.00.19:084][868]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.00.43:268][ 10]LogContentBrowser: Deferred new asset file creation: BP_FirstPersonCharacter_Child
+[2023.02.26-09.00.43:389][ 10]LogContentBrowser: Creating deferred item: BP_FirstPersonCharacter_Child
+[2023.02.26-09.00.43:424][ 11]LogContentBrowser: Renaming the item being created (Deferred Item: BP_FirstPersonCharacter_Child).
+[2023.02.26-09.00.47:992][279]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter_Child -> BP_Player
+[2023.02.26-09.00.48:237][279]LogContentBrowser: End creating deferred item BP_FirstPersonCharacter_Child
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.BP_Player_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.BP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.BP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:396][586]LogMetaData: Removing '/Game/BP_Player.BP_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Player.PackageMetaData'
+[2023.02.26-09.00.56:892][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.00.57:099][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset" SILENT=true
+[2023.02.26-09.00.57:170][586]LogSavePackage: Moving output files for package: /Game/BP_Player
+[2023.02.26-09.00.57:170][586]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_PlayerDFF954F84F47E9645EF58CA7F49D4462.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset'
+[2023.02.26-09.00.57:176][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 284 ms (total: 2:32 min)
+[2023.02.26-09.00.57:309][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.26-09.00.57:353][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.26-09.00.57:386][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.26-09.00.57:456][586]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.26-09.00.57:456][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Player.BP_Player
+[2023.02.26-09.00.57:472][587]LogAutomationController: Ignoring very large delta of 3.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-09.01.05:134][  8]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Player.BP_Player
+[2023.02.26-09.01.05:135][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-09.01.05:963][  8]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.26-09.01.08:641][ 57]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-09.01.08:641][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.01.37:619][410]BlueprintLog: New page: Compile BP_Player
+[2023.02.26-09.01.37:906][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.02.26-09.01.38:868][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.01.38:941][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset" SILENT=true
+[2023.02.26-09.01.38:948][458]LogSavePackage: Moving output files for package: /Game/BP_Player
+[2023.02.26-09.01.38:949][458]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_Player005CC57D4F2879FA51F40DA5CDC86D6F.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset'
+[2023.02.26-09.01.38:957][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2:32 min)
+[2023.02.26-09.01.38:965][458]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.26-09.01.38:965][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Player.BP_Player
+[2023.02.26-09.01.46:431][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.26-09.01.46:438][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.01.46:503][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.26-09.01.46:548][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.26-09.01.47:095][903]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.26-09.01.47:096][903]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon7BA1C0C54669E9B987BC33898D1CDF7A.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.26-09.01.47:122][903]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainDungeon_BuiltData
+[2023.02.26-09.01.47:122][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.01.47:123][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon_BuiltData" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon_BuiltData.uasset" SILENT=true
+[2023.02.26-09.01.49:803][903]LogSavePackage: Moving output files for package: /Game/MainDungeon_BuiltData
+[2023.02.26-09.01.49:804][903]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon_BuiltDataD71563324A36F0AE40A05DAFF7C25837.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon_BuiltData.uasset'
+[2023.02.26-09.01.49:807][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.68 sec (total: 2:35 min)
+[2023.02.26-09.01.49:807][903]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MainDungeon_BuiltData
+[2023.02.26-09.01.49:807][903]LogFileHelpers: Saving map 'MainDungeon' took 3.309
+[2023.02.26-09.01.49:807][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon_BuiltData" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon_BuiltData.uasset" SILENT=true
+[2023.02.26-09.01.52:473][903]LogSavePackage: Moving output files for package: /Game/MainDungeon_BuiltData
+[2023.02.26-09.01.52:474][903]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon_BuiltData6FDB2DE840F0DAD9A14FB1BBA2F4B080.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon_BuiltData.uasset'
+[2023.02.26-09.01.52:485][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.04 sec (total: 2:41 min)
+[2023.02.26-09.01.52:505][903]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.26-09.01.52:505][903]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.26-09.01.52:505][903]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/MainDungeon_BuiltData.MainDungeon_BuiltData
+[2023.02.26-09.01.52:564][904]LogAutomationController: Ignoring very large delta of 6.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-09.02.02:102][366]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.02:102][366]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.02:103][366]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.02:103][366]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.37:801][ 68]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2023.02.26-09.02.37:815][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_CryptRaidGameMode.BP_CryptRaidGameMode
+[2023.02.26-09.02.37:815][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-09.02.39:021][ 68]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.02.26-09.02.39:101][ 69]LogAutomationController: Ignoring very large delta of 23.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.02.26-09.02.50:236][644]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.50:236][644]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.50:237][644]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.02.50:237][644]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.03.04:126][366]BlueprintLog: New page: Compile BP_CryptRaidGameMode
+[2023.02.26-09.03.04:209][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.26-09.03.06:146][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.26-09.03.06:151][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.03.06:286][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_CryptRaidGameMode" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset" SILENT=true
+[2023.02.26-09.03.06:290][485]LogSavePackage: Moving output files for package: /Game/BP_CryptRaidGameMode
+[2023.02.26-09.03.06:290][485]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_CryptRaidGameMode3C47B02D4C8B7D98170F22AAC5C0C35C.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset'
+[2023.02.26-09.03.06:296][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2:41 min)
+[2023.02.26-09.03.06:303][485]AssetCheck: New page: Asset Save: BP_CryptRaidGameMode
+[2023.02.26-09.03.06:303][485]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_CryptRaidGameMode.BP_CryptRaidGameMode
+[2023.02.26-09.03.16:711][ 24]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.03.16:711][ 24]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.03.16:712][ 24]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.03.16:712][ 24]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: Total job queries 8565, among them cache hits 1155 (13.49%)
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: Tracking 2133 distinct input hashes that result in 1117 distinct outputs (52.37%)
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: RAM used: 15.57 MB (0.02 GB) of 716.80 MB (0.70 GB) budget. Usage: 2.17%
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: Shaders Compiled: 1604
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: Jobs assigned 1607, completed 1604 (99.81%)
+[2023.02.26-09.03.19:449][166]LogShaderCompilers: Display: Average time worker was idle: 36.31 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Time job spent in pending queue: average 60.40 s, longest 212.08 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Job execution time: average 1.35 s, max 19.35 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Job life time (pending + execution): average 61.47 s, max 212.08
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 652.58 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Jobs were issued in 1551 batches (only local compilation was used), average 1.04 jobs/batch
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Average processing rate: 2.46 jobs/sec
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Total thread time: 1513.22 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Total thread preprocess time: 83.64 s
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Percentage time preprocessing: 5.53%
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   36 times, average 1.25 sec, max 3.06 sec, min 0.85 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   58 times, average 1.25 sec, max 2.75 sec, min 0.65 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   36 times, average 1.23 sec, max 2.86 sec, min 0.83 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   41 times, average 1.22 sec, max 2.55 sec, min 0.80 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   39 times, average 1.21 sec, max 2.64 sec, min 0.83 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.99% of total time (compiled  118 times, average 1.02 sec, max 2.94 sec, min 0.67 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.60% of total time (compiled  116 times, average 0.99 sec, max 2.77 sec, min 0.68 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.72% of total time (compiled   95 times, average 0.91 sec, max 2.40 sec, min 0.52 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.66% of total time (compiled   96 times, average 0.89 sec, max 2.27 sec, min 0.57 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.29% of total time (compiled   92 times, average 0.87 sec, max 2.48 sec, min 0.48 sec)
+[2023.02.26-09.03.19:450][166]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.03.40:476][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.03.40:544][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_CryptRaidGameMode" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset" SILENT=true
+[2023.02.26-09.03.40:549][257]LogSavePackage: Moving output files for package: /Game/BP_CryptRaidGameMode
+[2023.02.26-09.03.40:550][257]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_CryptRaidGameMode4C93968F40A4EDC744D410B69FB5AA77.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset'
+[2023.02.26-09.03.40:557][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2:41 min)
+[2023.02.26-09.03.40:566][257]AssetCheck: New page: Asset Save: BP_CryptRaidGameMode
+[2023.02.26-09.03.40:566][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_CryptRaidGameMode.BP_CryptRaidGameMode
+[2023.02.26-09.04.17:335][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-09.04.17:335][929]PIE: New page: PIE session: MainDungeon (27/02/2023, 11:04:17 am)
+[2023.02.26-09.04.17:335][929]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.04.17:569][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233513s)
+[2023.02.26-09.04.17:569][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.233556s)
+[2023.02.26-09.04.17:569][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-09.04.17:570][929]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.26-09.04.17:575][929]LogPlayLevel: PIE: World Init took: (0.005991s)
+[2023.02.26-09.04.17:635][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.26-09.04.17:639][929]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-09.04.17:639][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.26-09.04.17:639][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-09.04.17:639][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-09.04.17:640][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-09.04.17:640][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-09.04.17:642][929]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-09.04.17:672][929]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.26-09.04.17:672][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-09.04.17:672][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-09.04.17:672][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-09.04.17:673][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.02.26-09.04.17:673][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.02.26-09.04.17:675][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.02.26-09.04.17:675][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.02.26-09.04.17:675][929]LogInit: FAudioDevice initialized.
+[2023.02.26-09.04.17:675][929]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainDungeon'.
+[2023.02.26-09.04.17:680][929]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.26-09.04.17:856][929]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.26-22.04.17
+[2023.02.26-09.04.17:860][929]LogWorld: Bringing up level for play took: 0.180274
+[2023.02.26-09.04.17:884][929]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.02.26-09.04.17:890][929]PIE: Server logged in
+[2023.02.26-09.04.17:891][929]PIE: Play in editor total start time 0.556 seconds.
+[2023.02.26-09.05.35:843][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.05.35:844][300]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.05.35:846][300]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-09.05.35:863][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.05.35:872][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-09.05.35:883][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.05.35:935][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.05.35:949][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.26-09.05.35:951][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.26-09.05.35:990][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.02.26-09.05.36:116][301]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Total job queries 8565, among them cache hits 1155 (13.49%)
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Tracking 2380 distinct input hashes that result in 1292 distinct outputs (54.29%)
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: RAM used: 17.62 MB (0.02 GB) of 716.80 MB (0.70 GB) budget. Usage: 2.46%
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Shaders Compiled: 1851
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Jobs assigned 1854, completed 1851 (99.84%)
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Average time worker was idle: 31.31 s
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Time job spent in pending queue: average 92.30 s, longest 386.16 s
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 19.35 s
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Job life time (pending + execution): average 93.29 s, max 386.16
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 833.39 s
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Jobs were issued in 1798 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.02.26-09.06.20:252][936]LogShaderCompilers: Display: Average processing rate: 2.22 jobs/sec
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Total thread time: 1993.17 s
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Total thread preprocess time: 105.97 s
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Percentage time preprocessing: 5.32%
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Effective parallelization: 2.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled   12 times, average 1.50 sec, max 3.85 sec, min 0.65 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   16 times, average 1.45 sec, max 3.85 sec, min 0.60 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   45 times, average 1.45 sec, max 3.74 sec, min 0.85 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   45 times, average 1.44 sec, max 3.94 sec, min 0.83 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled   21 times, average 1.43 sec, max 3.35 sec, min 0.63 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.90% of total time (compiled  126 times, average 1.09 sec, max 3.28 sec, min 0.67 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.65% of total time (compiled  123 times, average 1.08 sec, max 4.81 sec, min 0.68 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.16% of total time (compiled  104 times, average 0.99 sec, max 4.50 sec, min 0.57 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.12% of total time (compiled  103 times, average 0.99 sec, max 3.91 sec, min 0.52 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.81% of total time (compiled  100 times, average 0.96 sec, max 3.42 sec, min 0.48 sec)
+[2023.02.26-09.06.20:253][936]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.07.37:845][671]BlueprintLog: New page: Compile BP_Player
+[2023.02.26-09.07.38:073][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.26-09.07.40:553][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.26-09.07.40:559][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.26-09.07.40:619][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset" SILENT=true
+[2023.02.26-09.07.40:625][846]LogSavePackage: Moving output files for package: /Game/BP_Player
+[2023.02.26-09.07.40:626][846]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_Player1342852C44E8B7DB702C549041FEDCF7.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset'
+[2023.02.26-09.07.40:634][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2:41 min)
+[2023.02.26-09.07.40:643][846]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.26-09.07.40:643][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Player.BP_Player
+[2023.02.26-09.07.45:469][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-09.07.45:469][ 54]PIE: New page: PIE session: MainDungeon (27/02/2023, 11:07:45 am)
+[2023.02.26-09.07.45:469][ 54]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.07.45:677][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.207364s)
+[2023.02.26-09.07.45:677][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.207403s)
+[2023.02.26-09.07.45:677][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-09.07.45:677][ 54]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.26-09.07.45:678][ 54]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2023.02.26-09.07.45:738][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.26-09.07.45:741][ 54]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-09.07.45:742][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.26-09.07.45:742][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-09.07.45:742][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-09.07.45:742][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-09.07.45:742][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-09.07.45:745][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-09.07.45:774][ 54]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.26-09.07.45:775][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-09.07.45:775][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-09.07.45:775][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-09.07.45:776][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.26-09.07.45:776][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.26-09.07.45:778][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.26-09.07.45:778][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.26-09.07.45:778][ 54]LogInit: FAudioDevice initialized.
+[2023.02.26-09.07.45:778][ 54]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainDungeon'.
+[2023.02.26-09.07.45:788][ 54]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.26-09.07.45:947][ 54]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.26-22.07.45
+[2023.02.26-09.07.45:951][ 54]LogWorld: Bringing up level for play took: 0.162650
+[2023.02.26-09.07.45:954][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.02.26-09.07.45:987][ 54]PIE: Server logged in
+[2023.02.26-09.07.45:988][ 54]PIE: Play in editor total start time 0.519 seconds.
+[2023.02.26-09.07.50:193][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.07.50:193][244]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.07.50:194][244]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-09.07.50:208][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.07.50:215][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-09.07.50:225][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.07.50:276][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.07.50:291][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.26-09.07.50:293][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.26-09.07.50:331][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.02.26-09.07.50:469][245]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.26-09.07.56:906][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-09.07.56:906][458]PIE: New page: PIE session: MainDungeon (27/02/2023, 11:07:56 am)
+[2023.02.26-09.07.56:906][458]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.07.57:139][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.232688s)
+[2023.02.26-09.07.57:139][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.232729s)
+[2023.02.26-09.07.57:139][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.26-09.07.57:140][458]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.26-09.07.57:143][458]LogPlayLevel: PIE: World Init took: (0.004400s)
+[2023.02.26-09.07.57:198][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.26-09.07.57:202][458]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.26-09.07.57:202][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-09.07.57:202][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-09.07.57:202][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-09.07.57:203][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-09.07.57:203][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.26-09.07.57:203][458]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.26-09.07.57:203][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.26-09.07.57:203][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-09.07.57:203][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-09.07.57:203][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-09.07.57:203][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-09.07.57:205][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.26-09.07.57:233][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.26-09.07.57:234][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-09.07.57:234][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-09.07.57:234][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-09.07.57:235][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.02.26-09.07.57:235][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.02.26-09.07.57:237][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.02.26-09.07.57:238][458]LogInit: FAudioDevice initialized.
+[2023.02.26-09.07.57:238][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.02.26-09.07.57:238][458]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainDungeon'.
+[2023.02.26-09.07.57:245][458]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.26-09.07.57:417][458]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.26-22.07.57
+[2023.02.26-09.07.57:422][458]LogWorld: Bringing up level for play took: 0.176888
+[2023.02.26-09.07.57:425][458]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.02.26-09.07.57:450][458]PIE: Server logged in
+[2023.02.26-09.07.57:451][458]PIE: Play in editor total start time 0.545 seconds.
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Total job queries 8565, among them cache hits 1155 (13.49%)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Tracking 2684 distinct input hashes that result in 1406 distinct outputs (52.38%)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: RAM used: 19.61 MB (0.02 GB) of 716.80 MB (0.70 GB) budget. Usage: 2.74%
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Shaders Compiled: 2155
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Jobs assigned 2158, completed 2155 (99.86%)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Average time worker was idle: 26.77 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Time job spent in pending queue: average 144.17 s, longest 566.45 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 19.35 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Job life time (pending + execution): average 145.09 s, max 566.45
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1014.28 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Jobs were issued in 2102 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Average processing rate: 2.12 jobs/sec
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Total thread time: 2491.60 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Total thread preprocess time: 131.18 s
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   51 times, average 1.56 sec, max 3.93 sec, min 0.85 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   51 times, average 1.56 sec, max 4.06 sec, min 0.83 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   54 times, average 1.54 sec, max 4.05 sec, min 0.83 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   54 times, average 1.53 sec, max 4.23 sec, min 0.85 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   35 times, average 1.52 sec, max 3.39 sec, min 0.51 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.38% of total time (compiled  155 times, average 1.19 sec, max 3.69 sec, min 0.67 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.07% of total time (compiled  152 times, average 1.16 sec, max 4.81 sec, min 0.68 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.46% of total time (compiled  141 times, average 1.14 sec, max 3.91 sec, min 0.52 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.18% of total time (compiled  142 times, average 1.08 sec, max 4.50 sec, min 0.57 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.87% of total time (compiled  135 times, average 1.08 sec, max 3.42 sec, min 0.48 sec)
+[2023.02.26-09.09.21:151][161]LogShaderCompilers: Display: ================================================
+[2023.02.26-09.09.39:683][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.09.39:683][982]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.26-09.09.39:685][982]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-09.09.39:702][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.09.39:711][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-09.09.39:720][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-09.09.39:781][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-09.09.39:782][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.26-09.09.39:783][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.26-09.09.39:789][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-09.09.39:827][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.26-09.09.39:975][983]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.26-09.09.50:829][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
