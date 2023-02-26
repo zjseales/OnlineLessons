@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap",
-				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Maps/Demonstration.umap"
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Maps/Demonstration.umap",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon_BuiltData.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Materials/M_Skeleton_Dirty.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Camera/CineMat.uasset"
 			]
 		}
 	]
