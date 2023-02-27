@@ -28,8 +28,31 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+}
+
+void UGrabber::Release()
+{
+	UE_LOG(LogTemp, Display, TEXT("Release Item"));
+}
+
+void UGrabber::Grab()
+{
 	FVector Start = GetComponentLocation();
 	FVector End = Start + GetForwardVector() * MaxDistance;
 	DrawDebugLine(GetWorld(), Start, End, FColor::Red);
+
+	FCollisionShape Sphere = FCollisionShape::MakeSphere(GrabRadius);
+	FHitResult HitResult;
+	bool HasHit = GetWorld()->SweepSingleByChannel(
+		HitResult, Start, End, FQuat::Identity, ECC_GameTraceChannel2, Sphere);
+	
+	if(HasHit)
+	{
+		UE_LOG(LogTemp, Display, TEXT("Hit object: %s"), *HitResult.GetActor()->GetActorNameOrLabel());
+	} 
+	else
+	{
+		UE_LOG(LogTemp, Display, TEXT("No object hit."));
+	}
 }
 

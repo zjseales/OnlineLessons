@@ -24,9 +24,20 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	// Releases the held item
+	UFUNCTION(BlueprintCallable)
+	void Release();
+
+	// Pick up an item
+	UFUNCTION(BlueprintCallable)
+	void Grab();
+
 private:
 	// Maximum distance that the player can reach and grab an object.
 	UPROPERTY(EditAnywhere)
-	float MaxDistance = 400;
+	float MaxDistance = 300;
+
+	UPROPERTY(EditAnywhere)
+	float GrabRadius = 50;
 
 };

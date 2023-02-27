@@ -15,8 +15,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CRYPTRAID_Grabber_generated_h
 
 #define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_SPARSE_DATA
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGrab); \
+	DECLARE_FUNCTION(execRelease);
+
+
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGrab); \
+	DECLARE_FUNCTION(execRelease);
+
+
 #define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ACCESSORS
 #define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_INCLASS_NO_PURE_DECLS \
 private: \
