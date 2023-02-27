@@ -24,4 +24,9 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+private:
+	// Maximum distance that the player can reach and grab an object.
+	UPROPERTY(EditAnywhere)
+	float MaxDistance = 400;
+
 };
