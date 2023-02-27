@@ -1723,3 +1723,682 @@ Scale3D: 1.000000 1.000000 1.000000
  See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
 [2023.02.27-07.59.00:198][ 84]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (30 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
  See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.06.58:514][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.06.58:632][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.06.58:682][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.27-08.06.59:267][965]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.06.59:268][965]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeonF724208A45503CDBD616338DAD3E8FA9.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.06.59:378][965]LogFileHelpers: No new changes to save!
+[2023.02.27-08.06.59:378][965]LogFileHelpers: Saving map 'MainDungeon' took 0.749
+[2023.02.27-08.06.59:411][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 897 ms (total: 1.77 sec)
+[2023.02.27-08.06.59:420][965]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.06.59:420][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.07.05:643][ 71]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.07.05:894][ 76]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.07.06:179][ 81]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.07.09:689][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.07.09:847][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.07.09:899][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.27-08.07.10:528][140]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.07.10:538][140]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon7AF1607E42E6785527F355A5640A2C80.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.07.10:590][140]LogFileHelpers: No new changes to save!
+[2023.02.27-08.07.10:590][140]LogFileHelpers: Saving map 'MainDungeon' took 0.746
+[2023.02.27-08.07.10:630][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 941 ms (total: 2.71 sec)
+[2023.02.27-08.07.10:640][140]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.07.10:640][140]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.15.56:771][907]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.27-08.16.46:896][166]LogLiveCoding: Display:    Creating library C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_1.lib and object C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_1.exp
+[2023.02.27-08.16.50:046][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.02.27-08.16.50:733][170]Display: Reload/Re-instancing Complete: 1 class unchanged, 2 functions remapped
+[2023.02.27-08.16.50:734][170]LogLiveCoding: Display: Live coding succeeded
+[2023.02.27-08.16.56:942][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.16.56:942][239]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:16:56 am)
+[2023.02.27-08.16.56:942][239]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.16.57:165][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222952s)
+[2023.02.27-08.16.57:165][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.222987s)
+[2023.02.27-08.16.57:165][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.16.57:165][239]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.16.57:166][239]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2023.02.27-08.16.57:274][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.27-08.16.57:280][239]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.16.57:280][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.16.57:280][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.16.57:280][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.16.57:280][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.16.57:280][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.16.57:283][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.16.57:340][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.16.57:340][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.16.57:340][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.16.57:340][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.16.57:341][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.02.27-08.16.57:341][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.02.27-08.16.57:343][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.02.27-08.16.57:343][239]LogInit: FAudioDevice initialized.
+[2023.02.27-08.16.57:343][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.02.27-08.16.57:343][239]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainDungeon'.
+[2023.02.27-08.16.57:348][239]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.16.57:523][239]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.16.57
+[2023.02.27-08.16.57:528][239]LogWorld: Bringing up level for play took: 0.179373
+[2023.02.27-08.16.57:530][239]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.02.27-08.16.57:536][239]PIE: Server logged in
+[2023.02.27-08.16.57:537][239]PIE: Play in editor total start time 0.596 seconds.
+[2023.02.27-08.17.11:506][494]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (65 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.17.21:544][664]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (264 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.17.21:547][664]LogTemp: Display: Release Item
+[2023.02.27-08.17.22:960][685]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.17.23:375][691]LogTemp: Display: Release Item
+[2023.02.27-08.17.23:702][696]LogTemp: Display: Release Item
+[2023.02.27-08.17.23:902][699]LogTemp: Display: Release Item
+[2023.02.27-08.17.24:335][707]LogTemp: Display: Release Item
+[2023.02.27-08.17.25:318][724]LogTemp: Display: Release Item
+[2023.02.27-08.17.25:920][735]LogTemp: Display: Release Item
+[2023.02.27-08.17.26:461][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.17.26:461][744]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.17.26:463][744]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.17.26:478][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.17.26:542][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.17.26:555][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.17.26:608][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.17.26:623][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.27-08.17.26:624][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.27-08.17.26:728][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.02.27-08.17.26:857][745]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.27-08.17.31:636][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.17.31:636][815]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:17:31 am)
+[2023.02.27-08.17.31:636][815]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.17.31:858][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221690s)
+[2023.02.27-08.17.31:858][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.221728s)
+[2023.02.27-08.17.31:858][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.17.31:858][815]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.17.31:859][815]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2023.02.27-08.17.31:902][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.27-08.17.31:907][815]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.17.31:907][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.17.31:907][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.17.31:908][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.17.31:908][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.17.31:908][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.17.31:910][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.17.31:964][815]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.17.31:965][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.17.31:965][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.17.31:965][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.17.31:966][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.02.27-08.17.31:966][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.02.27-08.17.31:968][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.02.27-08.17.31:968][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.02.27-08.17.31:968][815]LogInit: FAudioDevice initialized.
+[2023.02.27-08.17.31:968][815]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainDungeon'.
+[2023.02.27-08.17.31:973][815]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.17.32:191][815]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.17.32
+[2023.02.27-08.17.32:195][815]LogWorld: Bringing up level for play took: 0.221965
+[2023.02.27-08.17.32:199][815]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.02.27-08.17.32:208][815]PIE: Server logged in
+[2023.02.27-08.17.32:209][815]PIE: Play in editor total start time 0.573 seconds.
+[2023.02.27-08.17.38:530][925]LogTemp: Display: Release Item
+[2023.02.27-08.17.43:345][ 15]LogTemp: Display: Release Item
+[2023.02.27-08.17.49:114][123]LogTemp: Display: Release Item
+[2023.02.27-08.17.50:044][141]LogTemp: Display: Release Item
+[2023.02.27-08.17.51:814][174]LogTemp: Display: Release Item
+[2023.02.27-08.17.52:402][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.17.52:402][184]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.17.52:404][184]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.17.52:420][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.17.52:478][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.17.52:491][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.17.52:553][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.17.52:553][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.27-08.17.52:555][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.27-08.17.52:560][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.17.52:589][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.27-08.17.52:724][185]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.27-08.19.27:637][428]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-08.19.27:719][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.27-08.19.28:604][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.19.28:663][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Player" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset" SILENT=true
+[2023.02.27-08.19.28:671][475]LogSavePackage: Moving output files for package: /Game/BP_Player
+[2023.02.27-08.19.28:672][475]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/BP_PlayerF4740E554744A53B24206793A552242B.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset'
+[2023.02.27-08.19.28:681][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.79 sec)
+[2023.02.27-08.19.28:691][475]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-08.19.28:691][475]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Player.BP_Player
+[2023.02.27-08.19.36:978][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.19.36:978][643]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:19:36 am)
+[2023.02.27-08.19.36:978][643]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.19.37:213][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235011s)
+[2023.02.27-08.19.37:213][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.235046s)
+[2023.02.27-08.19.37:214][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.19.37:214][643]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.19.37:215][643]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2023.02.27-08.19.37:274][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.27-08.19.37:276][643]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.27-08.19.37:276][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.19.37:276][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.19.37:276][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.19.37:277][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.19.37:277][643]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.19.37:277][643]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.19.37:277][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.19.37:277][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.19.37:277][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.19.37:277][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.19.37:277][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.19.37:280][643]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.19.37:339][643]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.19.37:340][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.19.37:340][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.19.37:340][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.19.37:341][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.02.27-08.19.37:341][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.02.27-08.19.37:343][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.02.27-08.19.37:343][643]LogInit: FAudioDevice initialized.
+[2023.02.27-08.19.37:343][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.02.27-08.19.37:343][643]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainDungeon'.
+[2023.02.27-08.19.37:351][643]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.19.37:567][643]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.19.37
+[2023.02.27-08.19.37:572][643]LogWorld: Bringing up level for play took: 0.220319
+[2023.02.27-08.19.37:574][643]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.02.27-08.19.37:582][643]PIE: Server logged in
+[2023.02.27-08.19.37:583][643]PIE: Play in editor total start time 0.605 seconds.
+[2023.02.27-08.19.41:080][697]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.19.46:110][787]LogTemp: Display: Release Item
+[2023.02.27-08.19.46:619][796]LogTemp: Display: Release Item
+[2023.02.27-08.19.48:087][824]LogTemp: Display: Release Item
+[2023.02.27-08.19.56:787][990]LogTemp: Display: Release Item
+[2023.02.27-08.19.59:175][ 36]LogTemp: Display: Release Item
+[2023.02.27-08.20.00:356][ 59]LogTemp: Display: Release Item
+[2023.02.27-08.20.00:774][ 67]LogTemp: Display: Release Item
+[2023.02.27-08.20.04:667][142]LogTemp: Display: Release Item
+[2023.02.27-08.20.05:430][156]LogTemp: Display: Release Item
+[2023.02.27-08.20.11:211][266]LogTemp: Display: Release Item
+[2023.02.27-08.20.11:801][277]LogTemp: Display: Release Item
+[2023.02.27-08.20.12:541][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.20.12:541][290]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.20.12:542][290]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.20.12:556][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.20.12:628][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.20.12:639][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.20.12:701][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.20.12:702][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.27-08.20.12:703][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.27-08.20.12:708][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.20.12:733][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.02.27-08.20.12:841][291]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.27-08.20.32:771][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.20.32:771][674]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:20:32 am)
+[2023.02.27-08.20.32:771][674]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.20.32:994][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222176s)
+[2023.02.27-08.20.32:994][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.222213s)
+[2023.02.27-08.20.32:994][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.20.32:994][674]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.20.32:995][674]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2023.02.27-08.20.33:053][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.27-08.20.33:056][674]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.27-08.20.33:056][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.20.33:056][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.20.33:056][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.20.33:056][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.20.33:056][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.20.33:057][674]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.20.33:057][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.20.33:057][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.20.33:057][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.20.33:057][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.20.33:057][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.20.33:059][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.20.33:109][674]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.20.33:110][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.20.33:110][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.20.33:110][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.20.33:110][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.27-08.20.33:110][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.02.27-08.20.33:112][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.27-08.20.33:112][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.27-08.20.33:112][674]LogInit: FAudioDevice initialized.
+[2023.02.27-08.20.33:112][674]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainDungeon'.
+[2023.02.27-08.20.33:121][674]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.20.33:331][674]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.20.33
+[2023.02.27-08.20.33:342][674]LogWorld: Bringing up level for play took: 0.220954
+[2023.02.27-08.20.33:346][674]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.02.27-08.20.33:351][674]PIE: Server logged in
+[2023.02.27-08.20.33:352][674]PIE: Play in editor total start time 0.581 seconds.
+[2023.02.27-08.20.41:373][819]LogTemp: Display: Release Item
+[2023.02.27-08.20.41:952][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.20.41:952][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.20.41:954][828]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.20.41:969][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.20.42:014][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.20.42:029][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.20.42:080][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.20.42:080][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.27-08.20.42:082][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.27-08.20.42:086][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.20.42:128][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.27-08.20.42:248][829]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.27-08.35.00:456][124]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.27-08.35.05:668][207]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.02.27-08.35.05:668][207]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.02.27-08.35.41:941][349]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.27-08.35.45:189][401]Display: Reload/Re-instancing Complete: No object changes detected
+[2023.02.27-08.35.45:189][401]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2023.02.27-08.36.10:542][571]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.27-08.36.18:889][708]LogLiveCoding: Display:    Creating library C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_2.lib and object C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_2.exp
+[2023.02.27-08.36.19:531][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.02.27-08.36.20:103][711]Display: Reload/Re-instancing Complete: 1 class unchanged, 2 functions remapped
+[2023.02.27-08.36.20:103][711]LogLiveCoding: Display: Live coding succeeded
+[2023.02.27-08.36.25:054][788]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.36.29:255][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.36.29:256][848]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:36:29 am)
+[2023.02.27-08.36.29:256][848]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.36.29:474][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218746s)
+[2023.02.27-08.36.29:474][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.218789s)
+[2023.02.27-08.36.29:475][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.36.29:475][848]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.36.29:476][848]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2023.02.27-08.36.29:620][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.02.27-08.36.29:622][848]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.36.29:622][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.36.29:622][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.36.29:623][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.36.29:623][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.36.29:623][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.36.29:625][848]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.36.29:687][848]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.36.29:688][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.36.29:688][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.36.29:688][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.36.29:689][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.02.27-08.36.29:689][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.02.27-08.36.29:691][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.02.27-08.36.29:691][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.02.27-08.36.29:691][848]LogInit: FAudioDevice initialized.
+[2023.02.27-08.36.29:691][848]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainDungeon'.
+[2023.02.27-08.36.29:696][848]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.36.29:909][848]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.36.29
+[2023.02.27-08.36.29:914][848]LogWorld: Bringing up level for play took: 0.217400
+[2023.02.27-08.36.29:916][848]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.02.27-08.36.29:922][848]PIE: Server logged in
+[2023.02.27-08.36.29:923][848]PIE: Play in editor total start time 0.668 seconds.
+[2023.02.27-08.36.40:477][ 43]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (221 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.36.44:246][113]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (329 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.36.46:702][147]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (163 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.36.50:832][219]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (270 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.36.53:111][256]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.00:581][390]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (113 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.12:851][597]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (83 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.22:471][768]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.27:411][843]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.28:702][865]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (174 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.33:491][940]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (202 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.36:931][995]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (146 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.38:815][ 28]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (172 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.39:912][ 47]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (134 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.37.41:626][ 75]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (218 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.38.01:251][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.38.01:251][440]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.38.01:253][440]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.38.01:266][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.38.01:337][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.38.01:351][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.38.01:399][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.38.01:411][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.27-08.38.01:413][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.27-08.38.01:443][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.02.27-08.38.01:563][441]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.27-08.39.04:112][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.02.27-08.39.04:127][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.39.04:221][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.39.04:269][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.27-08.39.04:903][154]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.39.04:904][154]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon9B331C7546B7E2E6A621E0BB3020CAEF.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.39.04:989][154]LogFileHelpers: No new changes to save!
+[2023.02.27-08.39.04:989][154]LogFileHelpers: Saving map 'MainDungeon' took 0.772
+[2023.02.27-08.39.05:016][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 888 ms (total: 3.68 sec)
+[2023.02.27-08.39.05:038][154]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.39.05:038][154]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.40.00:118][999]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (208 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: ================================================
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: Total job queries 344, among them cache hits 73 (21.22%)
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 225 distinct outputs (83.03%)
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: RAM used: 2.17 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.30%
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.27-08.40.17:511][270]LogShaderCompilers: Display: ================================================
+[2023.02.27-08.40.44:107][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.27-08.40.44:122][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.40.44:250][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.40.44:303][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.27-08.40.44:925][754]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.40.44:926][754]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon462BDF2E45BE0C7A4D2DAFA6EFA7EF18.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.40.44:967][754]LogFileHelpers: No new changes to save!
+[2023.02.27-08.40.44:967][754]LogFileHelpers: Saving map 'MainDungeon' took 0.719
+[2023.02.27-08.40.44:982][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 860 ms (total: 4.54 sec)
+[2023.02.27-08.40.44:990][754]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.40.44:990][754]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.40.48:688][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.40.48:688][815]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:40:48 am)
+[2023.02.27-08.40.48:688][815]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.40.48:913][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224804s)
+[2023.02.27-08.40.48:913][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.224908s)
+[2023.02.27-08.40.48:914][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.40.48:914][815]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.40.48:915][815]LogPlayLevel: PIE: World Init took: (0.001834s)
+[2023.02.27-08.40.48:966][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.27-08.40.48:971][815]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.40.48:971][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.40.48:971][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.40.48:972][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.40.48:972][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.40.48:972][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.40.48:974][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.40.49:011][815]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.40.49:011][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.40.49:011][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.40.49:011][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.40.49:013][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.02.27-08.40.49:013][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.02.27-08.40.49:015][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.02.27-08.40.49:015][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.02.27-08.40.49:015][815]LogInit: FAudioDevice initialized.
+[2023.02.27-08.40.49:015][815]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainDungeon'.
+[2023.02.27-08.40.49:022][815]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.40.49:182][815]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.40.49
+[2023.02.27-08.40.49:187][815]LogWorld: Bringing up level for play took: 0.165606
+[2023.02.27-08.40.49:190][815]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.02.27-08.40.49:235][815]PIE: Server logged in
+[2023.02.27-08.40.49:236][815]PIE: Play in editor total start time 0.548 seconds.
+[2023.02.27-08.40.51:456][855]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (30 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.40.55:160][916]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (111 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.40.59:191][996]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.00:336][ 20]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (68 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.04:299][100]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (70 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.07:638][162]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.15:021][291]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (56 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.18:702][349]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.20:693][378]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.22:403][408]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.25:470][459]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.25:925][466]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.40:365][730]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.40:649][735]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.41.45:701][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.41.45:701][831]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.41.45:703][831]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.41.45:718][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.41.45:757][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.41.45:771][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.41.45:818][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.41.45:831][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.27-08.41.45:833][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.27-08.41.45:838][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.41.45:918][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.02.27-08.41.46:056][832]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.27-08.41.49:859][904]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.42.29:171][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.27-08.42.29:187][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.42.29:270][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.42.29:317][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.27-08.42.29:900][629]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.42.29:901][629]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeonD88467764665373F9820AB9720F5C75D.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.42.29:944][629]LogFileHelpers: No new changes to save!
+[2023.02.27-08.42.29:944][629]LogFileHelpers: Saving map 'MainDungeon' took 0.675
+[2023.02.27-08.42.29:952][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 764 ms (total: 5.30 sec)
+[2023.02.27-08.42.29:962][629]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.42.29:962][629]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.42.36:140][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.42.36:140][734]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:42:36 am)
+[2023.02.27-08.42.36:140][734]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.42.36:372][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231477s)
+[2023.02.27-08.42.36:372][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.231517s)
+[2023.02.27-08.42.36:372][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.42.36:372][734]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.42.36:373][734]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2023.02.27-08.42.36:434][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.27-08.42.36:440][734]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.42.36:440][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.42.36:440][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.42.36:441][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.42.36:441][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.42.36:441][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.42.36:443][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.42.36:532][734]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.42.36:533][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.42.36:533][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.42.36:533][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.42.36:533][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.02.27-08.42.36:533][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.02.27-08.42.36:536][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.02.27-08.42.36:536][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.02.27-08.42.36:536][734]LogInit: FAudioDevice initialized.
+[2023.02.27-08.42.36:536][734]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainDungeon'.
+[2023.02.27-08.42.36:541][734]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.42.36:718][734]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.42.36
+[2023.02.27-08.42.36:723][734]LogWorld: Bringing up level for play took: 0.180544
+[2023.02.27-08.42.36:725][734]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.02.27-08.42.36:732][734]PIE: Server logged in
+[2023.02.27-08.42.36:733][734]PIE: Play in editor total start time 0.592 seconds.
+[2023.02.27-08.42.40:971][815]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.42.43:393][859]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.42.57:225][145]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (21 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.42.57:927][157]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.43.04:786][293]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.43.05:101][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.43.05:101][298]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.43.05:103][298]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.43.05:118][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.43.05:206][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.43.05:220][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.43.05:290][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.43.05:290][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.27-08.43.05:293][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.27-08.43.05:298][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.43.05:454][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.02.27-08.43.05:609][299]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.02.27-08.43.20:555][381]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (144 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.43.52:980][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.02.27-08.43.52:995][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.27-08.43.53:056][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainDungeon" FILE="../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.27-08.43.53:104][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.27-08.43.53:698][983]LogSavePackage: Moving output files for package: /Game/MainDungeon
+[2023.02.27-08.43.53:699][983]LogSavePackage: Moving '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Saved/MainDungeon57540EBC47D13FA8ED25B6A01CDB0645.tmp' to '../../../../../../Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MainDungeon.umap'
+[2023.02.27-08.43.53:725][983]LogFileHelpers: No new changes to save!
+[2023.02.27-08.43.53:725][983]LogFileHelpers: Saving map 'MainDungeon' took 0.671
+[2023.02.27-08.43.53:732][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 736 ms (total: 6.04 sec)
+[2023.02.27-08.43.53:753][983]AssetCheck: New page: Asset Save: MainDungeon
+[2023.02.27-08.43.53:753][983]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainDungeon.MainDungeon
+[2023.02.27-08.43.58:581][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.43.58:582][ 65]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:43:58 am)
+[2023.02.27-08.43.58:582][ 65]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.43.58:822][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.240481s)
+[2023.02.27-08.43.58:822][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.240529s)
+[2023.02.27-08.43.58:823][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.43.58:823][ 65]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.43.58:824][ 65]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2023.02.27-08.43.58:880][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.02.27-08.43.58:886][ 65]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.43.58:886][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.43.58:886][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.43.58:886][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.43.58:887][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.43.58:887][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.43.58:889][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.43.58:944][ 65]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.43.58:944][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.43.58:944][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.43.58:944][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.43.58:945][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.02.27-08.43.58:945][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.02.27-08.43.58:947][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.02.27-08.43.58:947][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.02.27-08.43.58:947][ 65]LogInit: FAudioDevice initialized.
+[2023.02.27-08.43.58:947][ 65]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainDungeon'.
+[2023.02.27-08.43.58:954][ 65]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.43.59:116][ 65]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.43.59
+[2023.02.27-08.43.59:121][ 65]LogWorld: Bringing up level for play took: 0.166284
+[2023.02.27-08.43.59:123][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.02.27-08.43.59:130][ 65]PIE: Server logged in
+[2023.02.27-08.43.59:130][ 65]PIE: Play in editor total start time 0.549 seconds.
+[2023.02.27-08.44.11:294][304]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (150 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.44.12:003][315]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (134 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.44.17:138][402]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (156 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.44.21:721][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.44.21:721][488]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.44.21:723][488]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.44.21:738][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.44.21:795][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.44.21:808][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.44.21:871][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.44.21:871][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.27-08.44.21:873][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.27-08.44.21:877][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.44.21:904][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.27-08.44.22:022][489]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.02.27-08.52.01:867][947]LogDerivedDataCache: C:/Users/Zac/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:24.759 and deleted 0 files with total size 0 MiB. Scanned 44243 files in 39156 folders with total size 4782 MiB.
+[2023.02.27-08.57.45:765][ 24]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.02.27-08.58.14:223][520]LogLiveCoding: Display:    Creating library C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_3.lib and object C:\Users\Zac\Documents\OnlineLessons\CryptRaid\Binaries\Win64\UnrealEditor-CryptRaid.patch_3.exp
+[2023.02.27-08.58.14:809][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.27-08.58.15:394][522]Display: Reload/Re-instancing Complete: 1 class unchanged, 2 functions remapped
+[2023.02.27-08.58.15:394][522]LogLiveCoding: Display: Live coding succeeded
+[2023.02.27-08.58.19:791][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-08.58.19:791][592]PIE: New page: PIE session: MainDungeon (28/02/2023, 10:58:19 am)
+[2023.02.27-08.58.19:792][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.58.20:022][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.230850s)
+[2023.02.27-08.58.20:023][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainDungeon.MainDungeon to /Game/UEDPIE_0_MainDungeon.MainDungeon (0.230889s)
+[2023.02.27-08.58.20:023][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-08.58.20:023][592]LogAIModule: Creating AISystem for world MainDungeon
+[2023.02.27-08.58.20:024][592]LogPlayLevel: PIE: World Init took: (0.001790s)
+[2023.02.27-08.58.20:158][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.27-08.58.20:160][592]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.27-08.58.20:160][592]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-08.58.20:161][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.27-08.58.20:161][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-08.58.20:161][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-08.58.20:161][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-08.58.20:161][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-08.58.20:163][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-08.58.20:201][592]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.02.27-08.58.20:201][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-08.58.20:201][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-08.58.20:201][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-08.58.20:202][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.02.27-08.58.20:202][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.02.27-08.58.20:204][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.02.27-08.58.20:204][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.02.27-08.58.20:205][592]LogInit: FAudioDevice initialized.
+[2023.02.27-08.58.20:205][592]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainDungeon'.
+[2023.02.27-08.58.20:212][592]LogLoad: Game class is 'BP_CryptRaidGameMode_C'
+[2023.02.27-08.58.20:409][592]LogWorld: Bringing World /Game/UEDPIE_0_MainDungeon.MainDungeon up for play (max tick rate 0) at 2023.02.27-21.58.20
+[2023.02.27-08.58.20:417][592]LogWorld: Bringing up level for play took: 0.204660
+[2023.02.27-08.58.20:419][592]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.02.27-08.58.20:425][592]PIE: Server logged in
+[2023.02.27-08.58.20:426][592]PIE: Play in editor total start time 0.635 seconds.
+[2023.02.27-08.58.30:484][786]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (114 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.58.37:630][918]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (30 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)
+[2023.02.27-08.58.38:343][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.58.38:343][927]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainDungeon
+[2023.02.27-08.58.38:344][927]LogWorld: UWorld::CleanupWorld for MainDungeon, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-08.58.38:362][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.58.38:501][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-08.58.38:515][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-08.58.38:582][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-08.58.38:591][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.27-08.58.38:593][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.27-08.58.38:597][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-08.58.38:881][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.02.27-08.58.39:060][928]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.02.27-08.58.39:332][929]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (107 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.MaxPhysicalPagesSceneCapture (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00)

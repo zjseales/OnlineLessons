@@ -1,6 +1,7 @@
 #include "Grabber.h"
 #include "Engine/World.h"
 #include "DrawDebugHelpers.h"
+#include "Components/StaticMeshComponent.h"
 
 // Sets default values for this component's properties
 UGrabber::UGrabber()
@@ -28,32 +29,38 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 
 	UPhysicsHandleComponent* PhysicsHandle = GetPhysicsHandle();
 
-	FVector TargetLocation = GetComponentLocation() + GetForwardVector() * HoldDistance;
-	PhysicsHandle->SetTargetLocationAndRotation(TargetLocation, GetComponentRotation());
-
+	if (PhysicsHandle->GetGrabbedComponent() != nullptr)
+	{
+		FVector TargetLocation = GetComponentLocation() + GetForwardVector() * HoldDistance;
+		PhysicsHandle->SetTargetLocationAndRotation(TargetLocation, GetComponentRotation());
+	}
+	
 }
 
 void UGrabber::Release()
 {
-	UE_LOG(LogTemp, Display, TEXT("Release Item"));
+	UPhysicsHandleComponent* PhysicsHandle = GetPhysicsHandle();
+
+	if(PhysicsHandle->GetGrabbedComponent() != nullptr)
+	{
+		PhysicsHandle->ReleaseComponent();
+	}
 }
 
 void UGrabber::Grab()
 {
 	UPhysicsHandleComponent* PhysicsHandle = GetPhysicsHandle();
 
-	FVector Start = GetComponentLocation();
-	FVector End = Start + GetForwardVector() * MaxDistance;
-
-	FCollisionShape Sphere = FCollisionShape::MakeSphere(GrabRadius);
 	FHitResult HitResult;
-	bool HasHit = GetWorld()->SweepSingleByChannel(
-		HitResult, Start, End, FQuat::Identity, ECC_GameTraceChannel2, Sphere);
+	bool HasHit = PickUpItem(HitResult);
 	
 	if(HasHit)
 	{
+		UPrimitiveComponent* HitComponent = HitResult.GetComponent();
+		HitComponent->SetSimulatePhysics(true);
+
 		PhysicsHandle->GrabComponentAtLocationWithRotation(
-			HitResult.GetComponent(), NAME_None, HitResult.ImpactPoint, GetComponentRotation());
+			HitComponent, NAME_None, HitResult.ImpactPoint, GetComponentRotation());
 	} 
 
 }
@@ -66,5 +73,17 @@ UPhysicsHandleComponent* UGrabber::GetPhysicsHandle() const
 		UE_LOG(LogTemp, Error, TEXT("No physics handle found."));
 	}
 	return Result;
+}
+
+bool UGrabber::PickUpItem(FHitResult& OutHitResult) const
+{
+	//line trace
+	FVector Start = GetComponentLocation();
+	FVector End = Start + GetForwardVector() * MaxDistance;
+	//geometry sweep
+	FCollisionShape Sphere = FCollisionShape::MakeSphere(GrabRadius);
+
+	return GetWorld()->SweepSingleByChannel(OutHitResult, Start, End, FQuat::Identity, ECC_GameTraceChannel2, Sphere);
+
 }
 

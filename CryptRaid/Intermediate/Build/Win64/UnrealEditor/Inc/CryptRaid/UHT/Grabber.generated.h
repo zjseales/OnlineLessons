@@ -14,21 +14,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CRYPTRAID_Grabber_generated_h
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_SPARSE_DATA
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_SPARSE_DATA
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGrab); \
 	DECLARE_FUNCTION(execRelease);
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGrab); \
 	DECLARE_FUNCTION(execRelease);
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ACCESSORS
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_ACCESSORS
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_INCLASS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
 	friend struct Z_Construct_UClass_UGrabber_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(UGrabber)
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_STANDARD_CONSTRUCTORS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGrabber(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrabber) \
@@ -60,7 +60,7 @@ public: \
 	NO_API virtual ~UGrabber();
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrabber(UGrabber&&); \
@@ -72,27 +72,27 @@ public: \
 	NO_API virtual ~UGrabber();
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_10_PROLOG
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_GENERATED_BODY_LEGACY \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_11_PROLOG
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_SPARSE_DATA \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ACCESSORS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_INCLASS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_STANDARD_CONSTRUCTORS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_SPARSE_DATA \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_RPC_WRAPPERS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_ACCESSORS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_INCLASS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_GENERATED_BODY \
+#define FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_SPARSE_DATA \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ACCESSORS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_INCLASS_NO_PURE_DECLS \
-	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_SPARSE_DATA \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_ACCESSORS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_Grabber_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

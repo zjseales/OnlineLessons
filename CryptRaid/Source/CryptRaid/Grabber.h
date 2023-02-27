@@ -46,4 +46,6 @@ private:
 
 	UPhysicsHandleComponent* GetPhysicsHandle() const;
 
+	bool PickUpItem(FHitResult& OutHitResult) const;
+
 };
