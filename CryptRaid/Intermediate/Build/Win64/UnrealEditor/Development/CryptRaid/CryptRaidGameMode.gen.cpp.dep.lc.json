@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zac\\documents\\onlinelessons\\cryptraid\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraid\\uht\\cryptraidgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zac\\documents\\onlinelessons\\cryptraid\\intermediate\\build\\win64\\cryptraideditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\zac\\documents\\onlinelessons\\cryptraid\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraid\\definitions.cryptraid.h",
+            "c:\\users\\zac\\documents\\onlinelessons\\cryptraid\\source\\cryptraid\\cryptraidgamemode.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\zac\\documents\\onlinelessons\\cryptraid\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraid\\uht\\cryptraidgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
