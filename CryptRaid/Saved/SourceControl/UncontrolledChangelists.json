@@ -13,7 +13,9 @@
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Camera/CineMat.uasset",
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Player.uasset",
-				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset"
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_CryptRaidGameMode.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/FirstPerson/BP_DoorTrigger.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_SecretWall.uasset"
 			]
 		}
 	]
