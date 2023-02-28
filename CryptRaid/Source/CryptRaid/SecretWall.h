@@ -38,6 +38,7 @@ private:
 
 	FVector OriginalLocation;
 
+	UPROPERTY(EditAnywhere)
 	bool ShouldMove = false;
 		
 };

@@ -21,7 +21,9 @@
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_LockedDoor.uasset",
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_LeftDoor.uasset",
 				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_RightDoor.uasset",
-				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_GargoyleKey.uasset"
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_GargoyleKey.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/BP_Trap.uasset",
+				"C:/Users/Zac/Documents/OnlineLessons/CryptRaid/Content/Blueprints/BP_CryptRaidGame.uasset"
 			]
 		}
 	]
