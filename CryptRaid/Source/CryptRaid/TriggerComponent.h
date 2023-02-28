@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/BoxComponent.h"
+#include "SecretWall.h"
 #include "TriggerComponent.generated.h"
 
 /**
@@ -26,8 +27,14 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	UFUNCTION(BlueprintCallable)
+	void UnlockDoor();
+
+	UFUNCTION(BlueprintCallable)
+	void SetMover(USecretWall* NewMover);
+
 private:
 	bool CheckKeys();
-	void UnlockDoor();
-	
+	// the door connected to this trigger
+	USecretWall* Mover;
 };

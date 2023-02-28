@@ -68,8 +68,18 @@ bool UTriggerComponent::CheckKeys()
     return false;
 }
 
-// unlocks the secret door
+// Assigns the secret door to the trigger.
+void UTriggerComponent::SetMover(USecretWall* NewMover)
+{
+    Mover = NewMover;
+}
+
+// unlocks the door
 void UTriggerComponent::UnlockDoor()
 {
-    UE_LOG(LogTemp, Display, TEXT("Both Keys Placed, Unlocking..."));
+    if (Mover == nullptr)
+    {
+        return;
+    }
+    Mover->SetShouldMove(true);
 }

@@ -39,3 +39,9 @@ void USecretWall::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 	}
 }
 
+// Sets the mover to the boolean parameter
+void USecretWall::SetShouldMove(bool b)
+{
+	ShouldMove = b;
+}
+

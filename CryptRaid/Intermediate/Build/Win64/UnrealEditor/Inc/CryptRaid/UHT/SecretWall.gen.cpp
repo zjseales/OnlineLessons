@@ -37,11 +37,6 @@ void EmptyLinkFunctionForGeneratedCodeSecretWall() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_MoveTime_MetaData[];
 #endif
 		static const UECodeGen_Private::FFloatPropertyParams NewProp_MoveTime;
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_ShouldMove_MetaData[];
-#endif
-		static void NewProp_ShouldMove_SetBit(void* Obj);
-		static const UECodeGen_Private::FBoolPropertyParams NewProp_ShouldMove;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -76,23 +71,9 @@ void EmptyLinkFunctionForGeneratedCodeSecretWall() {}
 	};
 #endif
 	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_USecretWall_Statics::NewProp_MoveTime = { "MoveTime", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USecretWall, MoveTime), METADATA_PARAMS(Z_Construct_UClass_USecretWall_Statics::NewProp_MoveTime_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USecretWall_Statics::NewProp_MoveTime_MetaData)) };
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove_MetaData[] = {
-		{ "Category", "SecretWall" },
-		{ "Comment", "// Defines whether the wall should move.\n" },
-		{ "ModuleRelativePath", "SecretWall.h" },
-		{ "ToolTip", "Defines whether the wall should move." },
-	};
-#endif
-	void Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove_SetBit(void* Obj)
-	{
-		((USecretWall*)Obj)->ShouldMove = 1;
-	}
-	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove = { "ShouldMove", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, sizeof(bool), sizeof(USecretWall), &Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove_SetBit, METADATA_PARAMS(Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_USecretWall_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USecretWall_Statics::NewProp_MoveOffset,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USecretWall_Statics::NewProp_MoveTime,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USecretWall_Statics::NewProp_ShouldMove,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_USecretWall_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<USecretWall>::IsAbstract,
@@ -131,9 +112,9 @@ void EmptyLinkFunctionForGeneratedCodeSecretWall() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_SecretWall_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_USecretWall, USecretWall::StaticClass, TEXT("USecretWall"), &Z_Registration_Info_UClass_USecretWall, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USecretWall), 3068323135U) },
+		{ Z_Construct_UClass_USecretWall, USecretWall::StaticClass, TEXT("USecretWall"), &Z_Registration_Info_UClass_USecretWall, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USecretWall), 2628515333U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_SecretWall_h_3162554656(TEXT("/Script/CryptRaid"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_SecretWall_h_2890839894(TEXT("/Script/CryptRaid"),
 		Z_CompiledInDeferFile_FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_SecretWall_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Zac_Documents_OnlineLessons_CryptRaid_Source_CryptRaid_SecretWall_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

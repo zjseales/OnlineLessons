@@ -24,6 +24,8 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	void SetShouldMove(bool b);
+
 private:
 
 	// Offset position of the secret wall
@@ -34,10 +36,8 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MoveTime = 4;
 
-	// Defines whether the wall should move.
-	UPROPERTY(EditAnywhere)
-	bool ShouldMove = false;
-
 	FVector OriginalLocation;
+
+	bool ShouldMove = false;
 		
 };

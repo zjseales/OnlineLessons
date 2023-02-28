@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeCryptRaid_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x801BB0E8,
-				0x499EBCB7,
+				0x7C4AF9DE,
+				0xE6034F30,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_CryptRaid.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_CryptRaid.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRaid(Z_Construct_UPackage__Script_CryptRaid, TEXT("/Script/CryptRaid"), Z_Registration_Info_UPackage__Script_CryptRaid, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x801BB0E8, 0x499EBCB7));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_CryptRaid(Z_Construct_UPackage__Script_CryptRaid, TEXT("/Script/CryptRaid"), Z_Registration_Info_UPackage__Script_CryptRaid, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x7C4AF9DE, 0xE6034F30));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
