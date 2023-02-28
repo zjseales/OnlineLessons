@@ -42,7 +42,6 @@ bool UTrigger2::CheckKeys()
         //should put this in a reusable method
         if(Actor->ActorHasTag("GoldSkull"))
         {
-            UE_LOG(LogTemp, Display, TEXT("Skull Placed."));
             FVector SkullLocation = FVector(4205.2579, 5598.499235, -295.19626);
             FRotator SkullRotation = FRotator(0, 0, 40);
             UPrimitiveComponent* SkullPrimitive = Cast<UPrimitiveComponent>(Actor->GetRootComponent());
