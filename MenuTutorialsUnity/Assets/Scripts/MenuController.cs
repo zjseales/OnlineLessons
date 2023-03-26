@@ -34,4 +34,42 @@ public class MenuController : MonoBehaviour
         characterSelectPanel.SetActive(false);
         buttonPanel.SetActive(true);
     }
+
+    public void setQuality()
+    {
+        changeQuality();
+    }
+
+    // changes video quality dependent on the quality button clicked
+    void changeQuality()
+    {
+        //retrieve name of clicked item
+        string level = UnityEngine.EventSystems.EventSystem.current.currentSelectedGameObject.name;
+
+        switch (level) 
+        {
+            case "Low":
+                QualitySettings.SetQualityLevel(0);
+                break;
+            case "Normal":
+                QualitySettings.SetQualityLevel(1);
+                break;
+            case "High":
+                QualitySettings.SetQualityLevel(2);
+                break;
+            case "Epic":
+                QualitySettings.SetQualityLevel(3);
+                break;
+            case "Shadows":
+                if(QualitySettings.shadows == ShadowQuality.All)
+                {
+                    QualitySettings.shadows = ShadowQuality.Disable;
+                }
+                else
+                {
+                    QualitySettings.shadows = ShadowQuality.All;
+                }
+                break;
+        }
+    }
 }
