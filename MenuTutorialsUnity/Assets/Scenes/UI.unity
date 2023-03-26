@@ -2248,7 +2248,7 @@ GameObject:
   - component: {fileID: 430854027}
   - component: {fileID: 430854026}
   m_Layer: 5
-  m_Name: Normal
+  m_Name: MidRes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2318,7 +2318,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 430854027}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 30693091}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: setResolution
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &430854027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2718,7 +2730,7 @@ GameObject:
   - component: {fileID: 542126842}
   - component: {fileID: 542126841}
   m_Layer: 5
-  m_Name: High
+  m_Name: HighRes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2788,7 +2800,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 542126842}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 30693091}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: setResolution
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &542126842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2840,7 +2864,7 @@ GameObject:
   - component: {fileID: 543283549}
   - component: {fileID: 543283548}
   m_Layer: 5
-  m_Name: Epic
+  m_Name: EpicRes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2910,7 +2934,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 543283549}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 30693091}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: setResolution
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &543283549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9519,7 +9555,7 @@ GameObject:
   - component: {fileID: 1662864440}
   - component: {fileID: 1662864439}
   m_Layer: 5
-  m_Name: Low
+  m_Name: LowRes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9589,7 +9625,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1662864440}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 30693091}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: setResolution
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1662864440
 MonoBehaviour:
   m_ObjectHideFlags: 0
