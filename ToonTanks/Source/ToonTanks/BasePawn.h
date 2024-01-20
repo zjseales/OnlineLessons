@@ -1,3 +1,5 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
 #pragma once
 
 #include "CoreMinimal.h"
@@ -19,9 +21,9 @@ protected:
 
 private:
 	UPROPERTY()
-	class UCapsuleComponent* CapsuleComp; 
+	class UCapsuleComponent* CapsuleComp;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
