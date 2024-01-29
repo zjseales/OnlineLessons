@@ -21,12 +21,17 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
+	// Components
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class USpringArmComponent* springArmComp;
-
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class UCameraComponent* cameraComp;
 
+	// movement variables
+	UPROPERTY(EditAnywhere, Category = "Movement")
+	float moveSpeed = 200.0f;
+
+	// movement controls
 	void Move(float value);
 	void Turn(float value);
 	

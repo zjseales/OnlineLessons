@@ -1,6 +1,7 @@
 #include "Tank.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Kismet/GameplayStatics.h"
 
 // Constructor : Sets default values of a tank.
 ATank::ATank()
@@ -28,10 +29,8 @@ void ATank::Move(float value)
 {
     // Move the tank forward or backward.
     FVector deltaLocation = FVector::ZeroVector;
-    deltaLocation.X = value;
+    deltaLocation.X = value * UGameplayStatics::GetWorldDeltaSeconds(this) * moveSpeed;
     AddActorLocalOffset(deltaLocation);
-    AddActorWorldOffset(movement);
-    UE_LOG(LogTemp, Warning, TEXT("Tank moved : %f"), value);
 }
 
 void ATank::Turn(float value)
@@ -39,7 +38,6 @@ void ATank::Turn(float value)
     // Turn the tank left or right.
     FRotator rotation = FRotator(0, value, 0);
     AddActorWorldRotation(rotation);
-    UE_LOG(LogTemp, Warning, TEXT("Tank turned : %f"), value);
 }
 
 
