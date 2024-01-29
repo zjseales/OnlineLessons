@@ -25,6 +25,15 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 }
 
+// Called when the game starts or when spawned
+void ATank::BeginPlay()
+{
+	Super::BeginPlay();
+    // reference to player controller
+    playerControllerRef = Cast<APlayerController>(GetController());
+}
+
+
 void ATank::Move(float value)
 {
     FVector deltaLocation = FVector::ZeroVector;
@@ -40,5 +49,3 @@ void ATank::Turn(float value)
     deltaRotation.Yaw = value * UGameplayStatics::GetWorldDeltaSeconds(this) * turnSpeed;
     AddActorLocalRotation(deltaRotation, true);
 }
-
-

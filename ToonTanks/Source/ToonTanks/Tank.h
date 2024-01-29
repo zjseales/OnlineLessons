@@ -20,6 +20,10 @@ public:
 	// Called to bind functionality to input (Tank controls)
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
 private:
 	// Components
 	UPROPERTY(VisibleAnywhere, Category = "Components")
@@ -36,5 +40,7 @@ private:
 	// movement controls
 	void Move(float value);
 	void Turn(float value);
+
+	APlayerController* playerControllerRef;
 	
 };
