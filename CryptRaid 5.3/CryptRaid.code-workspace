@@ -1,0 +1,613 @@
+{
+	"folders": [
+		{
+			"name": "CryptRaid",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Program Files\\Epic Games\\UE_5.3"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "CryptRaid Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaid Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaid Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaid Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Test",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Test",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaid Win64 Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Test",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Shipping",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Shipping",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaid Win64 Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaid Win64 Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaid",
+					"Win64",
+					"Shipping",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaidEditor Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Debug",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaidEditor Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"DebugGame",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaidEditor Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaidEditor Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaidEditor",
+					"Win64",
+					"Development",
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			}
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch CryptRaid (Debug)",
+				"request": "launch",
+				"program": "C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"preLaunchTask": "CryptRaid Win64 Debug Build",
+				"args": [
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaid (DebugGame)",
+				"request": "launch",
+				"program": "C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"preLaunchTask": "CryptRaid Win64 DebugGame Build",
+				"args": [
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaid (Development)",
+				"request": "launch",
+				"program": "C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\Binaries\\Win64\\UnrealGame.exe",
+				"preLaunchTask": "CryptRaid Win64 Development Build",
+				"args": [
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaid (Test)",
+				"request": "launch",
+				"program": "C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"preLaunchTask": "CryptRaid Win64 Test Build",
+				"args": [
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaid (Shipping)",
+				"request": "launch",
+				"program": "C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"preLaunchTask": "CryptRaid Win64 Shipping Build",
+				"args": [
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaidEditor (Debug)",
+				"request": "launch",
+				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"preLaunchTask": "CryptRaidEditor Win64 Debug Build",
+				"args": [
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject"
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaidEditor (DebugGame)",
+				"request": "launch",
+				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"preLaunchTask": "CryptRaidEditor Win64 DebugGame Build",
+				"args": [
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject"
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch CryptRaidEditor (Development)",
+				"request": "launch",
+				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"preLaunchTask": "CryptRaidEditor Win64 Development Build",
+				"args": [
+					"C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject"
+				],
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Generate Project Files",
+				"type": "coreclr",
+				"request": "launch",
+				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
+				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"args": [
+					"-projectfiles",
+					"-vscode",
+					"-project=C:\\Users\\Zac\\Documents\\OnlineLessons\\CryptRaid 5.3\\CryptRaid.uproject",
+					"-game",
+					"-engine",
+					"-dotnet"
+				],
+				"console": "externalTerminal",
+				"stopAtEntry": false,
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+			}
+		]
+	}
+}
