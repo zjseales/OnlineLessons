@@ -43,15 +43,6 @@ void ATank::Move(float value)
 void ATank::Turn(float value)
 {
     FRotator deltaRotation = FRotator::ZeroRotator;
-    // display actor velocity
-    UE_LOG(LogTemp, Warning, TEXT("Velocity: %s"), *GetVelocity().ToString());
-    //flip when reversing
-    /**
-    if (GetActorForwardVector() < 0)
-    {
-        value *= -1;
-    }
-    */
     // Rotate the tank about the local z axis.
     deltaRotation.Yaw = value * UGameplayStatics::GetWorldDeltaSeconds(this) * turnSpeed;
     AddActorLocalRotation(deltaRotation, true);
