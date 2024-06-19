@@ -32,6 +32,24 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
     PlayerInputComponent->BindAxis(TEXT("Turn"), this, &ATank::Turn);
 }
 
+// Called every frame
+void ATank::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+
+    // Rotate the turret to face the cursor.
+    if (playerControllerRef)
+    {
+        FHitResult hitResult;
+        playerControllerRef->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, false, hitResult);
+        FVector hitLocation = hitResult.ImpactPoint;
+        //draw debug sphere at hit location every frame
+        DrawDebugSphere(GetWorld(), hitLocation, 5, 12, FColor::Green, false, -1.f);
+        // rotates turret towards the hit location
+        RotateTurret(hitLocation);
+    }
+}
+
 void ATank::Move(float value)
 {
     FVector deltaLocation = FVector::ZeroVector;

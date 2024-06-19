@@ -19,6 +19,8 @@ public:
 	ATank();
 	// Called to bind functionality to input (Tank controls)
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
 
 protected:
 	// Called when the game starts or when spawned
@@ -33,7 +35,7 @@ private:
 
 	// movement variables
 	UPROPERTY(EditAnywhere, Category = "Movement")
-	float moveSpeed = 250.0f;
+	float moveSpeed = 300.0f;
 	UPROPERTY(EditAnywhere, Category = "Movement")
 	float turnSpeed = 100.0f;
 
