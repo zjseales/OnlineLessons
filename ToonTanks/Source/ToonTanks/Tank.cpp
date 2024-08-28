@@ -30,6 +30,8 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
     PlayerInputComponent->BindAxis(TEXT("MoveForward"), this, &ATank::Move);
     // Bind the Turn function to the TurnRight action.
     PlayerInputComponent->BindAxis(TEXT("Turn"), this, &ATank::Turn);
+    // Bind the Fire function to the Fire action.
+    PlayerInputComponent->BindAction(TEXT("Fire"), IE_Pressed, this, &ATank::Fire);
 }
 
 // Called every frame

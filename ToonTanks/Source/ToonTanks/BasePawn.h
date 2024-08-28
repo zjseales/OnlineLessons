@@ -15,6 +15,8 @@ public:
 
 protected:
 	void RotateTurret(FVector LookAtTarget);
+	//projectile fire method
+	void Fire();
 
 private:
 	// Collider
