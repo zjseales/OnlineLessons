@@ -1,5 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -9,11 +7,26 @@
 /** Tower.h
  * 	
  * 	Enemy towers that rotate toward, and attack the player pawn.
- *  @author Zac Seales (taken from gamedev.tv "ToonTanks" lessons)
+ *  @author Zac Seales (adapted from gamedev.tv "ToonTanks" lessons)
  */
 UCLASS()
 class TOONTANKS_API ATower : public ABasePawn
 {
 	GENERATED_BODY()
+
+public:
+
+	virtual void Tick(float DeltaTime) override;
 	
+protected:
+	// Called when the game starts / when a tower object is created
+	virtual void BeginPlay() override;
+
+private:
+	// reference to the tank object.
+	class ATank* Tank;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Attack Specs")
+	float FireRange = 300.0f;
+
 };
