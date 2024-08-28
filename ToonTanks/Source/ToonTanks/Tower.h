@@ -29,4 +29,11 @@ private:
 	UPROPERTY(EditDefaultsOnly, Category = "Attack Specs")
 	float FireRange = 300.0f;
 
+	UPROPERTY(EditDefaultsOnly, Category = "Attack Specs")
+	float FireRate = 2.f;
+
+	FTimerHandle FireRateTimerHandle;
+	void CheckFireCondition();
+	bool InFireRange();
+
 };
