@@ -40,7 +40,6 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 	UE_LOG(LogTemp, Warning, TEXT("Component : %s"), *HitComp->GetName());
 	UE_LOG(LogTemp, Warning, TEXT("collided with Actor : %s"), *OtherActor->GetName());
 	UE_LOG(LogTemp, Warning, TEXT("and hit component : %s"), *OtherComp->GetName());
-
 }
 
 
