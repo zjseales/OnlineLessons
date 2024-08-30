@@ -5,7 +5,7 @@
 
 // Constructor : Sets default values of a tank.
 ATank::ATank()
-{
+{   
 	// Construct a Spring Arm component and attach to root.
     springArmComp = CreateDefaultSubobject<USpringArmComponent>(TEXT("Spring Arm"));
     springArmComp->SetupAttachment(RootComponent);
@@ -50,6 +50,14 @@ void ATank::Tick(float DeltaTime)
         // rotates turret towards the hit location
         RotateTurret(hitLocation);
     }
+}
+
+void ATank::HandleDestruction()
+{
+    Super::HandleDestruction();
+    SetActorHiddenInGame(true);
+    SetActorTickEnabled(false);
+    playerControllerRef->bShowMouseCursor = false;
 }
 
 void ATank::Move(float value)

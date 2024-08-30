@@ -14,6 +14,13 @@ void ATower::BeginPlay()
     GetWorldTimerManager().SetTimer(FireRateTimerHandle, this, &ATower::CheckFireCondition, FireRate, true);
 }
 
+// tower destruction method.
+void ATower::HandleDestruction()
+{
+    Super::HandleDestruction();
+    Destroy();
+}
+
 /** Fire projectile if tank in range.
  */
 void ATower::CheckFireCondition()

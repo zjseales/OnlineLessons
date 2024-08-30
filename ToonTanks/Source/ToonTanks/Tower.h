@@ -18,6 +18,8 @@ public:
 
 	virtual void Tick(float DeltaTime) override;
 	
+	void HandleDestruction();
+	
 protected:
 	// Called when the game starts / when a tower object is created
 	virtual void BeginPlay() override;

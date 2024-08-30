@@ -21,6 +21,10 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	// manages tank death
+	void HandleDestruction();
+	// retrieves controller
+	APlayerController* GetTankController() const { return playerControllerRef; }
 
 protected:
 	// Called when the game starts or when spawned

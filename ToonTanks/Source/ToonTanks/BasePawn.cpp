@@ -28,6 +28,12 @@ ABasePawn::ABasePawn()
 
 }
 
+void ABasePawn::HandleDestruction()
+{
+	// TO-DO
+	// Visual/sound effects
+}
+
 void ABasePawn::RotateTurret(FVector LookAtTarget)
 {
 	// Update TurretMesh rotation to face LookAtTarget.
