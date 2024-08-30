@@ -27,6 +27,9 @@ private:
 	// Hit Function
 	UFUNCTION()
 	void OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
+	// Damage amount
+	UPROPERTY(EditAnywhere)
+	float Damage = 10.f;
 
 public:
 	// Tick Function - called every frame.

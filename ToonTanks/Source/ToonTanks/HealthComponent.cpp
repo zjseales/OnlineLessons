@@ -28,7 +28,10 @@ void UHealthComponent::BeginPlay()
  */
 void UHealthComponent::DamageTaken(AActor* DamagedActor, float Damage, const UDamageType* DamageType, class AController* Instigator, AActor* DamageCauser)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Damage Occurred"));
+	if (Damage <= 0.f) return;
+	// apply damage to hp
+	CurrHealth -= Damage;
+	UE_LOG(LogTemp, Warning, TEXT("Damage Occurred : Health = %f"), CurrHealth);
 }
 
 /** Called every frame.

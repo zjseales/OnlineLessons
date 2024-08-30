@@ -1,7 +1,8 @@
 #include "Projectile.h"
 #include "Components/StaticMeshComponent.h"
-#include "Components/PrimitiveComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"
+#include "GameFramework/DamageType.h"
+#include "Kismet/GameplayStatics.h"
 
 /** Constructor.
  *  Sets default values of a Projectile.
@@ -24,7 +25,8 @@ AProjectile::AProjectile()
 
 }
 
-// Called when the game starts or when spawned
+/** Called when this object is spawned.
+ */
 void AProjectile::BeginPlay()
 {
 	Super::BeginPlay();
@@ -36,12 +38,27 @@ void AProjectile::BeginPlay()
 // Hit event callback function.
 void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Hit"));
-	UE_LOG(LogTemp, Warning, TEXT("Component : %s"), *HitComp->GetName());
-	UE_LOG(LogTemp, Warning, TEXT("collided with Actor : %s"), *OtherActor->GetName());
-	UE_LOG(LogTemp, Warning, TEXT("and hit component : %s"), *OtherComp->GetName());
+	// ensure projectile has owner.
+	auto MyOwner = GetOwner(); 
+	if (MyOwner == nullptr) 
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Projectile has no owner."));
+		return;
+	}
+	// Retrieve damage variables
+	auto DamageInstigator = MyOwner->GetInstigatorController();
+	auto DamageTypeClass = UDamageType::StaticClass();
+	
+	// ensure actor exists and is not self or owner.
+	if (OtherActor && OtherActor != this && OtherActor != MyOwner)
+	{
+		// apply damage
+		UGameplayStatics::ApplyDamage(OtherActor, Damage, DamageInstigator, this, DamageTypeClass);
+		// destroy this projectile
+		Destroy();
+	}
+	
 }
-
 
 // Called every frame
 void AProjectile::Tick(float DeltaTime)
