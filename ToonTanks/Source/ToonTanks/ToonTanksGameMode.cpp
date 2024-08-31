@@ -14,11 +14,14 @@ void AToonTanksGameMode::BeginPlay()
 
 void AToonTanksGameMode::HandleGameStart()
 {
+    // Set up win condition variable
+    TotalTowers = GetTotalTowers();
+
     // retrieve tank pawn
     Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this, 0));
     // retrieve player controller
     ToonTanksPlayerController = Cast<AToonTanksPlayerController>(UGameplayStatics::GetPlayerController(this, 0));
-
+    // Start Display, implemented in blueprints
     StartGame();
 
     // Delay player input for 3s on game start.
@@ -35,6 +38,14 @@ void AToonTanksGameMode::HandleGameStart()
     }
 }
 
+int32 AToonTanksGameMode::GetTotalTowers()
+{
+    TArray<AActor*> Towers;
+    UGameplayStatics::GetAllActorsOfClass(this, ATower::StaticClass(), Towers);
+    return Towers.Num();
+}
+
+
 // Manages actor death.
 void AToonTanksGameMode::ActorDied(AActor* DeadActor)
 {
@@ -46,10 +57,16 @@ void AToonTanksGameMode::ActorDied(AActor* DeadActor)
         {
             ToonTanksPlayerController->SetPlayerEnabledState(false);
         }
+        GameOver(false);
     }
     // Tower Destruction
     else if (ATower* DeadTower = Cast<ATower>(DeadActor))
     {
         DeadTower->HandleDestruction();
+        TotalTowers--;
+        if (TotalTowers == 0)
+        {
+            GameOver(true);
+        }
     }
 }

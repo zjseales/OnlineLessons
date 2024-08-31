@@ -20,13 +20,20 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
-	
+
 	UFUNCTION(BlueprintImplementableEvent)
 	void StartGame();
+
+	UFUNCTION(BlueprintImplementableEvent)
+	void GameOver(bool bGameWon);
 
 private:
 	class ATank* Tank;
 	class AToonTanksPlayerController* ToonTanksPlayerController;
+	// manage number of towers for win condition
+	int32 TotalTowers = 0;
+	int32 GetTotalTowers();
+
 	// start delay time.
 	float StartDelay = 3.f;
 

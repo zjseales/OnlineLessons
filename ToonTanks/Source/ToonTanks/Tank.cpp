@@ -55,7 +55,7 @@ void ATank::HandleDestruction()
     Super::HandleDestruction();
     SetActorHiddenInGame(true);
     SetActorTickEnabled(false);
-    playerControllerRef->bShowMouseCursor = false;
+    SetActorEnableCollision(false);
 }
 
 void ATank::Move(float value)
