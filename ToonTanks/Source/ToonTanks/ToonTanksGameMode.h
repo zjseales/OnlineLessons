@@ -22,7 +22,11 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
-
 	class ATank* Tank;
+	class AToonTanksPlayerController* ToonTanksPlayerController;
+	// start delay time.
+	float StartDelay = 3.f;
+
+	void HandleGameStart();
 	
 };

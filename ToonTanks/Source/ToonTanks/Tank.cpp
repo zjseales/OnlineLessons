@@ -45,8 +45,6 @@ void ATank::Tick(float DeltaTime)
         FHitResult hitResult;
         playerControllerRef->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, false, hitResult);
         FVector hitLocation = hitResult.ImpactPoint;
-        //draw debug sphere at hit location every frame
-        DrawDebugSphere(GetWorld(), hitLocation, 5, 12, FColor::Green, false, -1.f);
         // rotates turret towards the hit location
         RotateTurret(hitLocation);
     }
