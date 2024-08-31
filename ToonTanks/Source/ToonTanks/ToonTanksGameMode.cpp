@@ -18,6 +18,9 @@ void AToonTanksGameMode::HandleGameStart()
     Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this, 0));
     // retrieve player controller
     ToonTanksPlayerController = Cast<AToonTanksPlayerController>(UGameplayStatics::GetPlayerController(this, 0));
+
+    StartGame();
+
     // Delay player input for 3s on game start.
     if(ToonTanksPlayerController)
     {
