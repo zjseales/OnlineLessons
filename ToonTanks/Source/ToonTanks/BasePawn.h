@@ -35,5 +35,8 @@ private:
 	// Variable representing a class type
 	UPROPERTY(EditDefaultsOnly, Category = "Attack Specs")
 	TSubclassOf<class AProjectile> ProjectileClass;
+	// Death particles
+	UPROPERTY(EditAnywhere, Category = "Components")
+	class UParticleSystem* DeathParticles;
 
 };
