@@ -30,6 +30,9 @@ private:
 	// Damage amount
 	UPROPERTY(EditAnywhere)
 	float Damage = 10.f;
+	// particles when projectile hits
+	UPROPERTY(EditAnywhere, Category = "Components")
+	class UParticleSystem* HitParticles;
 
 public:
 	// Tick Function - called every frame.

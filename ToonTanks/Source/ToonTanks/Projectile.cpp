@@ -43,21 +43,24 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 	if (MyOwner == nullptr) 
 	{
 		UE_LOG(LogTemp, Warning, TEXT("Projectile has no owner."));
+		Destroy();
 		return;
 	}
 	// Retrieve damage variables
 	auto DamageInstigator = MyOwner->GetInstigatorController();
 	auto DamageTypeClass = UDamageType::StaticClass();
 	
-	// ensure actor exists and is not self or owner.
-	if (OtherActor && OtherActor != this && OtherActor != MyOwner)
+	if (OtherActor && HitParticles)
 	{
-		// apply damage
-		UGameplayStatics::ApplyDamage(OtherActor, Damage, DamageInstigator, this, DamageTypeClass);
-		// destroy this projectile
-		Destroy();
+		// display particles when hit
+		UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation(), GetActorRotation());
+		// ensure actor is not self or owner, before applying damage.
+		if (OtherActor != this && OtherActor != MyOwner)
+		{
+			UGameplayStatics::ApplyDamage(OtherActor, Damage, DamageInstigator, this, DamageTypeClass);
+		}
 	}
-	
+	Destroy(); // destroy this projectile
 }
 
 // Called every frame
