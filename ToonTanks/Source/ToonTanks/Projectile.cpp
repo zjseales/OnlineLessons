@@ -1,5 +1,7 @@
 #include "Projectile.h"
 #include "Components/StaticMeshComponent.h"
+#include "Particles/ParticleSystem.h"
+#include "Particles/ParticleSystemComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"
 #include "GameFramework/DamageType.h"
 #include "Kismet/GameplayStatics.h"
@@ -22,6 +24,10 @@ AProjectile::AProjectile()
 	ProjectileMovement->bRotationRemainsVertical = true;
 	ProjectileMovement->MaxSpeed = 1300.f;
 	ProjectileMovement->InitialSpeed = 1300.f;
+
+	// Construct Particle System Component (smoke trail)
+	SmokeParticles = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("Smoke Particles"));
+	SmokeParticles->SetupAttachment(RootComponent);
 
 }
 
