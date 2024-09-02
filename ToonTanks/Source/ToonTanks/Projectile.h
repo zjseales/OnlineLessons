@@ -30,9 +30,17 @@ private:
 	// Damage amount
 	UPROPERTY(EditAnywhere)
 	float Damage = 10.f;
-	// particles when projectile hits
+
+	//		EFFECTS
+	UPROPERTY(EditAnywhere, Category = "Sounds")
+	class USoundBase* LaunchSound;
+	// projectile hit.
 	UPROPERTY(EditAnywhere, Category = "Particles")
 	class UParticleSystem* HitParticles;
+	UPROPERTY(EditAnywhere, Category = "Sounds")
+	USoundBase* HitSound;
+	UPROPERTY(EditAnywhere, Category = "Camera Shake")
+	TSubclassOf<class UCameraShakeBase> HitShakeClass;
 	// smoke trail
 	UPROPERTY(VisibleAnywhere, Category = "Particles")
 	class UParticleSystemComponent* SmokeParticles;

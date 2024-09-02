@@ -5,6 +5,8 @@
 #include "GameFramework/ProjectileMovementComponent.h"
 #include "GameFramework/DamageType.h"
 #include "Kismet/GameplayStatics.h"
+#include "Sound/SoundBase.h"
+#include "Camera/CameraShakeBase.h"
 
 /** Constructor.
  *  Sets default values of a Projectile.
@@ -38,7 +40,11 @@ void AProjectile::BeginPlay()
 	Super::BeginPlay();
 	// Bind projectile mesh to OnHit callback function.
 	ProjectileMesh->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
-	
+	// launch sound
+	if (LaunchSound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this, LaunchSound, GetActorLocation(), 0.2f);
+	}
 }
 
 // Hit event callback function.
@@ -58,8 +64,18 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 	
 	if (OtherActor && HitParticles)
 	{
-		// display particles when hit
+		// play hit sound.
+		if (HitSound)
+		{
+			UGameplayStatics::PlaySoundAtLocation(this, HitSound, GetActorLocation(), 3.f);
+		}
+		// display particles
 		UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation(), GetActorRotation());
+		// shake camera
+		if (HitShakeClass)
+		{
+			GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(HitShakeClass);
+		}
 		// ensure actor is not self or owner, before applying damage.
 		if (OtherActor != this && OtherActor != MyOwner)
 		{

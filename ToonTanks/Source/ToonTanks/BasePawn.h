@@ -38,5 +38,11 @@ private:
 	// Death particles
 	UPROPERTY(EditAnywhere, Category = "Components")
 	class UParticleSystem* DeathParticles;
+	// Death Sound
+	UPROPERTY(EditAnywhere, Category = "Sounds")
+	class USoundBase* DeathSound;
+	// Death camera shake
+	UPROPERTY(EditAnywhere, Category = "Camera Shake")
+	TSubclassOf<class UCameraShakeBase> DeathShakeClass;
 
 };

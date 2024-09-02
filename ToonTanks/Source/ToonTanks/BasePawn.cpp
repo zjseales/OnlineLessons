@@ -4,6 +4,7 @@
 #include "Particles/ParticleSystem.h"
 #include "Kismet/GameplayStatics.h"
 #include "Projectile.h"
+#include "Camera/CameraShakeBase.h"
 
 // Constructor : Sets default values.
 ABasePawn::ABasePawn()
@@ -29,15 +30,23 @@ ABasePawn::ABasePawn()
 
 }
 
+// plays sound and particle explosion on death
 void ABasePawn::HandleDestruction()
 {
+	// death sound
+	if (DeathSound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this, DeathSound, GetActorLocation(), 2.5f);
+	}
+	if (DeathShakeClass)
+	{
+		GetWorld()->GetFirstPlayerController()->ClientStartCameraShake(DeathShakeClass);
+	}
 	// death explosion particles
 	if (DeathParticles)
 	{
 		UGameplayStatics::SpawnEmitterAtLocation(this, DeathParticles, GetActorLocation(), GetActorRotation());
 	}
-	// TO-DO
-	// Visual/sound effects
 }
 
 void ABasePawn::RotateTurret(FVector LookAtTarget)
