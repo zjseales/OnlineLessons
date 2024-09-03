@@ -7,6 +7,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "Sound/SoundBase.h"
 #include "Camera/CameraShakeBase.h"
+#include "Sound/SoundConcurrency.h"
 
 /** Constructor.
  *  Sets default values of a Projectile.
@@ -40,18 +41,20 @@ void AProjectile::BeginPlay()
 	Super::BeginPlay();
 	// Bind projectile mesh to OnHit callback function.
 	ProjectileMesh->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
+
 	// launch sound
-	if (LaunchSound)
+	if (LaunchSound && LaunchConcurrency)
 	{
-		UGameplayStatics::PlaySoundAtLocation(this, LaunchSound, GetActorLocation(), 0.2f);
+		UGameplayStatics::PlaySoundAtLocation(this, LaunchSound, GetActorLocation(), 0.25f, 1.f, 0.f, nullptr, LaunchConcurrency);
 	}
 }
 
 // Hit event callback function.
 void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
-	// ensure projectile has owner.
+	// store owner
 	AActor* MyOwner = GetOwner(); 
+	// ensure projectile has owner.
 	if (MyOwner == nullptr) 
 	{
 		UE_LOG(LogTemp, Warning, TEXT("Projectile has no owner."));

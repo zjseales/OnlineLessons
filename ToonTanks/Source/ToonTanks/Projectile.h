@@ -34,6 +34,8 @@ private:
 	//		EFFECTS
 	UPROPERTY(EditAnywhere, Category = "Sounds")
 	class USoundBase* LaunchSound;
+	UPROPERTY(EditAnywhere, Category = "Sounds")
+	class USoundConcurrency* LaunchConcurrency;
 	// projectile hit.
 	UPROPERTY(EditAnywhere, Category = "Particles")
 	class UParticleSystem* HitParticles;
