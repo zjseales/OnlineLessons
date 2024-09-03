@@ -51,7 +51,7 @@ void AProjectile::BeginPlay()
 void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
 	// ensure projectile has owner.
-	auto MyOwner = GetOwner(); 
+	AActor* MyOwner = GetOwner(); 
 	if (MyOwner == nullptr) 
 	{
 		UE_LOG(LogTemp, Warning, TEXT("Projectile has no owner."));
@@ -59,8 +59,8 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 		return;
 	}
 	// Retrieve damage variables
-	auto DamageInstigator = MyOwner->GetInstigatorController();
-	auto DamageTypeClass = UDamageType::StaticClass();
+	AController* DamageInstigator = MyOwner->GetInstigatorController();
+	UClass* DamageTypeClass = UDamageType::StaticClass();
 	
 	if (OtherActor && HitParticles)
 	{

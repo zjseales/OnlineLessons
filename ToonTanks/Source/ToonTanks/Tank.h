@@ -25,6 +25,8 @@ public:
 	void HandleDestruction();
 	// retrieves controller
 	APlayerController* GetTankController() const { return playerControllerRef; }
+	// Tank life state
+	bool bAlive = true;
 
 protected:
 	// Called when the game starts or when spawned

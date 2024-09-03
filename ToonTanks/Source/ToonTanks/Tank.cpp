@@ -57,6 +57,7 @@ void ATank::HandleDestruction()
     SetActorHiddenInGame(true);
     SetActorTickEnabled(false);
     SetActorEnableCollision(false);
+    bAlive = false;
 }
 
 void ATank::Move(float value)
