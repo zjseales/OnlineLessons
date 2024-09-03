@@ -70,7 +70,7 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimi
 		// play hit sound.
 		if (HitSound)
 		{
-			UGameplayStatics::PlaySoundAtLocation(this, HitSound, GetActorLocation(), 3.f);
+			UGameplayStatics::PlaySoundAtLocation(this, HitSound, GetActorLocation(), 3.f, 1.f, 0.f, nullptr, LaunchConcurrency);
 		}
 		// display particles
 		UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation(), GetActorRotation());
