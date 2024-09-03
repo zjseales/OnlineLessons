@@ -10,11 +10,13 @@ void AToonTanksGameMode::BeginPlay()
     Super::BeginPlay();
 
     HandleGameStart();
+    // Display objective
+    UpdateRemainingEnemies(TotalTowers);
 }
 
 void AToonTanksGameMode::HandleGameStart()
 {
-    // Set up win condition variable
+    // set up win condition
     TotalTowers = GetTotalTowers();
 
     // retrieve tank pawn
@@ -64,6 +66,7 @@ void AToonTanksGameMode::ActorDied(AActor* DeadActor)
     {
         DeadTower->HandleDestruction();
         TotalTowers--;
+        UpdateRemainingEnemies(TotalTowers);
         if (TotalTowers == 0)
         {
             GameOver(true);

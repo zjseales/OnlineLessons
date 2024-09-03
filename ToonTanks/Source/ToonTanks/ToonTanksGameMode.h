@@ -27,6 +27,9 @@ protected:
 	UFUNCTION(BlueprintImplementableEvent)
 	void GameOver(bool bGameWon);
 
+	UFUNCTION(BlueprintImplementableEvent)
+	void UpdateRemainingEnemies(int32 NumEnemiesRemain);
+
 private:
 	class ATank* Tank;
 	class AToonTanksPlayerController* ToonTanksPlayerController;
