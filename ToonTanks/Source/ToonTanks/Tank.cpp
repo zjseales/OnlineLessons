@@ -66,6 +66,7 @@ void ATank::Move(float value)
     // Move the tank along the local x axis.
     deltaLocation.X = value * UGameplayStatics::GetWorldDeltaSeconds(this) * moveSpeed;
     AddActorLocalOffset(deltaLocation, true);
+
 }
 
 void ATank::Turn(float value)

@@ -14,7 +14,28 @@
 		"npm.autoDetect": "off",
 		"files.associations": {
 			"queue": "cpp",
-			"stack": "cpp"
+			"stack": "cpp",
+			"__bit_reference": "cpp",
+			"__node_handle": "cpp",
+			"atomic": "cpp",
+			"bitset": "cpp",
+			"deque": "cpp",
+			"__memory": "cpp",
+			"limits": "cpp",
+			"locale": "cpp",
+			"optional": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"chrono": "cpp",
+			"complex": "cpp",
+			"functional": "cpp",
+			"xlocmon": "cpp",
+			"xtr1common": "cpp",
+			"xutility": "cpp"
 		}
 	},
 	"extensions": {
