@@ -29,8 +29,14 @@ private:
 	void MoveForward(float AxisValue);
 	// Character Left and Right Movement
 	void MoveRight(float AxisValue);
-
 	// Character Vertical Camera Pivot
 	// void LookUp(float AxisValue);
+
+	/* Controller/Gamepad Movement Methods */
+	void LookUpRate(float AxisValue);
+	void LookRightRate(float AxisValue);
+
+	UPROPERTY(EditAnywhere)
+	float RotationRate = 50;
 
 };
