@@ -24,4 +24,13 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+private:
+	// Character Forward and Backward Movement
+	void MoveForward(float AxisValue);
+	// Character Left and Right Movement
+	void MoveRight(float AxisValue);
+
+	// Character Vertical Camera Pivot
+	// void LookUp(float AxisValue);
+
 };
