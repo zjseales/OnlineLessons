@@ -37,6 +37,6 @@ private:
 	void LookRightRate(float AxisValue);
 
 	UPROPERTY(EditAnywhere)
-	float RotationRate = 50;
+	float RotationRate = 70;
 
 };
